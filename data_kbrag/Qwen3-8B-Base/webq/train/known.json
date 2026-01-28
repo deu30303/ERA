@@ -1,0 +1,2261 @@
+[
+  {
+    "question": "what sport do the toronto maple leafs play?",
+    "answers": [
+      "Ice Hockey"
+    ],
+    "ctxs": [
+      {
+        "id": 785799,
+        "title": "\"Toronto Maple Leafs\"",
+        "text": "Toronto Maple Leafs The Toronto Maple Leafs (officially the Toronto Maple Leaf Hockey Club and often simply referred to as the Leafs) are a professional ice hockey team based in Toronto, Ontario. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The club is owned by Maple Leaf Sports & Entertainment, Ltd. and are represented by Chairman Larry Tanenbaum. With an estimated value of US $1.45 billion in 2018 according to \"\"Forbes\"\", the Maple Leafs are the second most valuable franchise in the NHL, after the New York Rangers. The Maple Leafs'",
+        "score": 95.94132995605469,
+        "evaluation": "The context explicitly states that the Toronto Maple Leafs are a professional ice hockey team, which directly answers the question.",
+        "type": "g"
+      },
+      {
+        "id": 785916,
+        "title": "\"Toronto Maple Leafs\"",
+        "text": "McKnight in 1986, Bob Cole in 2007, and Bill Hewitt in 2007. These are the top franchise leaders in regular season points, goals, assists, points per game, games played, and goaltending wins as of the end of the 2015–16 season. Footnotes Citations Works cited Toronto Maple Leafs The Toronto Maple Leafs (officially the Toronto Maple Leaf Hockey Club and often simply referred to as the Leafs) are a professional ice hockey team based in Toronto, Ontario. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The club is owned by Maple Leaf",
+        "score": 88.79209899902344,
+        "evaluation": "The context directly states that the Toronto Maple Leafs are a professional ice hockey team, which confirms the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 785880,
+        "title": "\"Toronto Maple Leafs\"",
+        "text": "multi-purpose facility, with a Loblaws grocery store occupying retail space on the lower floors, and an athletics arena for Ryerson University, occupying another level. The Maple Leafs presently use two facilities in the City of Toronto. The club moved from the Gardens on February 20, 1999, to their current home arena, the Scotiabank Arena, a multi-purpose indoor entertainment arena on Bay Street in Downtown Toronto. The arena is owned by the Maple Leafs' parent company MLSE, and is shared with the NBA's Toronto Raptors (another MLSE subsidiary), as well as the National Lacrosse League's Toronto Rock. In addition to the",
+        "score": 88.63255310058594,
+        "evaluation": "The context mentions that the Maple Leafs use the Scotiabank Arena, which is shared with the NBA's Toronto Raptors and the National Lacrosse League's Toronto Rock. This implies that the Maple Leafs are a different type of team, and given the context of sharing with basketball and lacrosse teams, it is reasonable to infer that the Maple Leafs play ice hockey, as they are a well-known ice hockey team.",
+        "type": "g"
+      }
+    ],
+    "answer": "ice hockey",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Ice hockey",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what movies did sally field win an oscar for?",
+    "answers": [
+      "Places in the Heart",
+      "Sybil",
+      "Norma Rae",
+      "A Woman Of Independent Means",
+      "A Cooler Climate",
+      "Brothers & Sisters",
+      "ER"
+    ],
+    "ctxs": [
+      {
+        "id": 1807924,
+        "title": "\"Sally Field\"",
+        "text": "Rae\"\", Field won the Best Female Performance Prize at the Cannes Film Festival and the Academy Award for Best Actress. Field appeared with Reynolds in three more films: \"\"The End\"\", \"\"Hooper\"\" and \"\"Smokey and the Bandit II\"\". In 1981, she continued to change her image, playing a foul-mouthed prostitute opposite Tommy Lee Jones in the South-set film \"\"Back Roads\"\". She received Golden Globe nominations for the 1981 drama \"\"Absence of Malice\"\" and the 1982 comedy \"\"Kiss Me Goodbye\"\". Then came a second Oscar for her starring role in the 1984 drama \"\"Places in the Heart\"\". Field's gushing acceptance speech is",
+        "score": 83.33769989013672,
+        "evaluation": "The context directly states that Sally Field won her second Oscar for her starring role in the 1984 drama 'Places in the Heart'. This confirms the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 1807937,
+        "title": "\"Sally Field\"",
+        "text": "Human Rights Campaign's Ally for Equality Award in 2012. Her youngest son, Sam, is gay. Sources: Emmy Awards; Golden Globe Awards Sally Field Sally Margaret Field (born November 6, 1946) is an American actress and director. She is the recipient of various accolades, including two Academy Awards, three Primetime Emmy Awards, two Golden Globe Awards, a Screen Actors Guild Award and has been nominated for a Tony Award and two BAFTA Awards. Field began her professional career on television, starring in titular roles on the short-lived sitcoms \"\"Gidget\"\" (1965–1966), \"\"The Flying Nun\"\" (1967–1970), and \"\"The Girl with Something Extra\"\" (1973–1974).",
+        "score": 80.77972412109375,
+        "evaluation": "The context mentions that Sally Field has won two Academy Awards but does not specify the titles of the movies for which she won. The correct answer, 'Places in the Heart,' is not mentioned in the context.",
+        "type": "n"
+      },
+      {
+        "id": 6643833,
+        "title": "\"Todd Field\"",
+        "text": "Field. \"\"In the Bedroom\"\" received six American Film Institute Awards including Best Picture, Director, and Screenplay, three Golden Globe nominations, and five Academy Award nominations including Best Picture, Actor, Actress, Supporting Actress, and two individually for Field both as Screenwriter and Producer. The American Film Institute honored Field with the Franklin Schaffner Alumni Medal. With the exception of the AFI Life Achievement Award, the Schaffner Award is the highest honor an individual can achieve. Field followed \"\"In the Bedroom\"\" with \"\"Little Children\"\", which was nominated for three Academy Awards including two for his actors: Kate Winslet (her fifth nomination, and",
+        "score": 79.73113250732422,
+        "evaluation": "The context does not mention 'Places in the Heart' or any other movie for which Sally Field won an Oscar. It primarily discusses 'In the Bedroom' and 'Little Children', but does not indicate that she won an Oscar for either of these films.",
+        "type": "n"
+      }
+    ],
+    "answer": "Norma Rae",
+    "type": "kg",
+    "em": 7.0,
+    "ctx_answer": "Places in the Heart",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the first book sherlock holmes appeared in?",
+    "answers": [
+      "A Study in Scarlet"
+    ],
+    "ctxs": [
+      {
+        "id": 374539,
+        "title": "\"Sherlock Holmes\"",
+        "text": "Sherlock Holmes Sherlock Holmes ( or ) is a fictional private detective created by British author Sir Arthur Conan Doyle. Referring to himself as a \"\"consulting detective\"\" in the stories, Holmes is known for his proficiency with observation, forensic science, and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard. First appearing in print in 1887's \"\"A Study in Scarlet\"\", the character's popularity became widespread with the first series of short stories in \"\"The Strand Magazine\"\", beginning with \"\"A Scandal in Bohemia\"\" in 1891; additional tales appeared",
+        "score": 83.52437591552734,
+        "evaluation": "The context explicitly states that Sherlock Holmes first appeared in print in 1887's 'A Study in Scarlet', which directly answers the question.",
+        "type": "g"
+      },
+      {
+        "id": 374466,
+        "title": "\"Sherlock Holmes\"",
+        "text": "Sherlock Holmes Sherlock Holmes ( or ) is a fictional private detective created by British author Sir Arthur Conan Doyle. Referring to himself as a \"\"consulting detective\"\" in the stories, Holmes is known for his proficiency with observation, forensic science, and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard. First appearing in print in 1887's \"\"A Study in Scarlet\"\", the character's popularity became widespread with the first series of short stories in \"\"The Strand Magazine\"\", beginning with \"\"A Scandal in Bohemia\"\" in 1891; additional tales appeared",
+        "score": 83.52437591552734,
+        "evaluation": "The context explicitly states that Sherlock Holmes first appeared in print in 1887's 'A Study in Scarlet', which directly answers the question.",
+        "type": "g"
+      },
+      {
+        "id": 6601213,
+        "title": "\"Sherlock Holmes pastiches\"",
+        "text": "published in 2000 a novel with the title \"\"Sherlock Holmes e il misterioso caso di Ippolito Nievo\"\" (\"\"Sherlock Holmes and the Mysterious Case of Ippolito Nievo\"\") set in London, Turin and Naples. The collection \"\"Shadows Over Baker Street\"\" (2003) contains 14 stories by 20 authors pitting Holmes against the forces of the Cthulhu Mythos. Among them is Neil Gaiman's \"\"A Study in Emerald\"\", which won the 2004 Hugo Award for Best Short Story. The title is a play on \"\"A Study in Scarlet\"\". The narrator, never named (but whose initials in the end point him to be the criminal henchman",
+        "score": 82.37149047851562,
+        "evaluation": "The context mentions 'A Study in Scarlet' and indicates that the title 'A Study in Emerald' by Neil Gaiman is a play on 'A Study in Scarlet'. This implies that 'A Study in Scarlet' is a well-known title in the Sherlock Holmes canon, and it is widely recognized as the first book in which Sherlock Holmes appeared.",
+        "type": "g"
+      }
+    ],
+    "answer": "A Study In Scarlet",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "A Study in Scarlet",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what style of music did louis armstrong play?",
+    "answers": [
+      "Jazz"
+    ],
+    "ctxs": [
+      {
+        "id": 243005,
+        "title": "\"Louis Armstrong\"",
+        "text": "praised Armstrong through strong testimonials. Duke Ellington, DownBeat magazine in 1971, said, \"\"If anybody was a master, it was Louis Armstrong. He was and will continue to be the embodiment of jazz.\"\" In 1950, Bing Crosby, the most successful vocalist of the first half of the 20th century, said, \"\"He is the beginning and the end of music in America.\"\" In the summer of 2001, in commemoration of the centennial of Armstrong's birth, New Orleans's main airport was renamed Louis Armstrong New Orleans International Airport. In 2002, the Louis Armstrong's Hot Five and Hot Seven recordings (1925–1928) were preserved in",
+        "score": 83.825927734375,
+        "evaluation": "The context directly implies that Louis Armstrong played jazz. This is evident from Duke Ellington's statement that Armstrong is 'the embodiment of jazz' and the mention of Armstrong's 'Hot Five and Hot Seven recordings,' which are well-known jazz recordings.",
+        "type": "g"
+      },
+      {
+        "id": 243005,
+        "title": "\"Louis Armstrong\"",
+        "text": "praised Armstrong through strong testimonials. Duke Ellington, DownBeat magazine in 1971, said, \"\"If anybody was a master, it was Louis Armstrong. He was and will continue to be the embodiment of jazz.\"\" In 1950, Bing Crosby, the most successful vocalist of the first half of the 20th century, said, \"\"He is the beginning and the end of music in America.\"\" In the summer of 2001, in commemoration of the centennial of Armstrong's birth, New Orleans's main airport was renamed Louis Armstrong New Orleans International Airport. In 2002, the Louis Armstrong's Hot Five and Hot Seven recordings (1925–1928) were preserved in",
+        "score": 83.825927734375,
+        "evaluation": "The context directly implies that Louis Armstrong played jazz. This is evident from Duke Ellington's statement that Armstrong is 'the embodiment of jazz' and the mention of Armstrong's 'Hot Five and Hot Seven recordings,' which are well-known jazz recordings.",
+        "type": "g"
+      },
+      {
+        "id": 242986,
+        "title": "\"Louis Armstrong\"",
+        "text": "based on the chord harmonies of the songs instead of merely on the melodies. This opened a rich field for creation and improvisation, and significantly changed the music into a soloist's art form. Often, Armstrong re-composed pop-tunes he played, simply with variations that made them more compelling to jazz listeners of the era. At the same time, however, his oeuvre includes many original melodies, creative leaps, and relaxed or driving rhythms. Armstrong's playing technique, honed by constant practice, extended the range, tone and capabilities of the trumpet. In his records, Armstrong almost single-handedly created the role of the jazz soloist,",
+        "score": 79.81559753417969,
+        "evaluation": "The context discusses Louis Armstrong's contributions to jazz, including his improvisation, re-composition of pop-tunes for jazz listeners, and the creation of the role of the jazz soloist. This clearly implies that the style of music he played was jazz.",
+        "type": "g"
+      }
+    ],
+    "answer": "jazz",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Jazz",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "who is robert downey jr wife?",
+    "answers": [
+      "Susan Downey"
+    ],
+    "ctxs": [
+      {
+        "id": 1466672,
+        "title": "\"Robert Downey Jr.\"",
+        "text": "from the Hollywood Foreign Press Association for his role as Sherlock Holmes, he noted in his acceptance speech that he had prepared no remarks because \"\"Susan Downey (his wife and \"\"Sherlock Holmes\"\" producer) told me that Matt Damon (nominated for his role in \"\"The Informant!\"\") was going to win so don't bother preparing a speech\"\". Downey returned as Tony Stark in the first of two planned sequels to \"\"Iron Man\"\", \"\"Iron Man 2\"\", which released in May 2010. \"\"Iron Man 2\"\" grossed over $623M worldwide, becoming the 7th highest-grossing film of 2010. Downey's other commercial film release of 2010 was",
+        "score": 84.40078735351562,
+        "evaluation": "The context directly states that Susan Downey is Robert Downey Jr.'s wife, as mentioned in the acceptance speech for his role as Sherlock Holmes.",
+        "type": "g"
+      },
+      {
+        "id": 1466672,
+        "title": "\"Robert Downey Jr.\"",
+        "text": "from the Hollywood Foreign Press Association for his role as Sherlock Holmes, he noted in his acceptance speech that he had prepared no remarks because \"\"Susan Downey (his wife and \"\"Sherlock Holmes\"\" producer) told me that Matt Damon (nominated for his role in \"\"The Informant!\"\") was going to win so don't bother preparing a speech\"\". Downey returned as Tony Stark in the first of two planned sequels to \"\"Iron Man\"\", \"\"Iron Man 2\"\", which released in May 2010. \"\"Iron Man 2\"\" grossed over $623M worldwide, becoming the 7th highest-grossing film of 2010. Downey's other commercial film release of 2010 was",
+        "score": 84.40078735351562,
+        "evaluation": "The context directly states that Susan Downey is Robert Downey Jr.'s wife, as mentioned in the acceptance speech for his role as Sherlock Holmes.",
+        "type": "g"
+      },
+      {
+        "id": 6747414,
+        "title": "\"The Hound of Death\"",
+        "text": "has connections with the case. The household consists of Sir Arthur, his stepmother, Lady Carmichael, his half-brother of eight years of age, and a Miss Phyllis Patterson to whom Arthur is engaged to be married. As their horse carriage comes up the drive, they see Miss Patterson walking across the lawn, and Carstairs remarks on the cat at her feet which provokes a startled reaction from Settle. Going into the house, they make the acquaintance of Lady Carmichael and Miss Patterson, and again Carstairs causes a reaction when he mentions seeing the cat. They then see their patient and observe",
+        "score": 72.25786590576172,
+        "evaluation": "The context provided does not contain any information about Robert Downey Jr. or his wife. It appears to be a description of characters in a different setting, likely from a story or a case, and does not mention Susan Downey or any details related to Robert Downey Jr.'s personal life.",
+        "type": "n"
+      }
+    ],
+    "answer": "Susan Downey",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Susan Downey",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what type of monarchy did england have?",
+    "answers": [
+      "Constitutional monarchy"
+    ],
+    "ctxs": [
+      {
+        "id": 575615,
+        "title": "\"Monarchy of the United Kingdom\"",
+        "text": "the British Armed Forces. Though the ultimate formal executive authority over the government of the United Kingdom is still by and through the monarch's royal prerogative, these powers may only be used according to laws enacted in Parliament and, in practice, within the constraints of convention and precedent. The British monarchy traces its origins from the petty kingdoms of early medieval Scotland and Anglo-Saxon England, which consolidated into the kingdoms of England and Scotland by the 10th century AD. In 1066, the last crowned Anglo-Saxon monarch, Harold Godwinson, was defeated and killed during the Norman conquest of England and the",
+        "score": 84.79283905029297,
+        "evaluation": "The context implies that England has a constitutional monarchy. It states that the monarch's powers are constrained by laws enacted in Parliament and by convention and precedent, which are key characteristics of a constitutional monarchy.",
+        "type": "g"
+      },
+      {
+        "id": 575616,
+        "title": "\"Monarchy of the United Kingdom\"",
+        "text": "English monarchy passed to the Normans' victorious leader, William the Conqueror, and his descendants. From the 1080s, the lordships of South Wales were held by a succession of Norman families inter-married with older Welsh houses loyal to the English throne, with many lordships also held by the English King in his own right. The process was completed in the 13th century when the north of Wales, as a principality, became a client state of the English kingdom, while \"\"Magna Carta\"\" began a process of reducing the English monarch's political powers. From 1603, when the Scottish monarch James VI inherited the",
+        "score": 84.12809753417969,
+        "evaluation": "The context mentions 'Magna Carta' which began a process of reducing the English monarch's political powers. This implies that the English monarchy was a constitutional monarchy, where the monarch's powers are limited by a constitution or other laws.",
+        "type": "g"
+      },
+      {
+        "id": 767302,
+        "title": "\"Absolute monarchy\"",
+        "text": "European monarchs, such as those of Russia, claimed supreme autocratic power by divine right, and that their subjects had no rights to limit their power. James VI of Scotland (later also James I of England) and his son Charles I of Scotland and England tried to import this principle. Charles I's attempt to enforce episcopal polity on the Church of Scotland led to rebellion by the Covenanters and the Bishops' Wars, then fears that Charles I was attempting to establish absolutist government along European lines was a major cause of the English Civil War, despite the fact that he did",
+        "score": 83.77681732177734,
+        "evaluation": "The context discusses the attempts by James I and Charles I to establish an absolutist form of monarchy, but it does not mention or imply that England had a constitutional monarchy. The context focuses on the conflict and resistance against absolutist rule, rather than describing the type of monarchy that was established as a result.",
+        "type": "n"
+      }
+    ],
+    "answer": "Constitutional Monarchy",
+    "type": "kg",
+    "em": 5.0,
+    "ctx_answer": "Constitutional Monarchy",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what position does rafael furcal play?",
+    "answers": [
+      "Second baseman",
+      "Shortstop"
+    ],
+    "ctxs": [
+      {
+        "id": 3514191,
+        "title": "\"Rafael Furcal\"",
+        "text": "Rafael Furcal Rafael Antoni Furcal (born October 24, 1977) is a Dominican former professional baseball shortstop. He played in Major League Baseball (MLB) for the Atlanta Braves, Los Angeles Dodgers, St. Louis Cardinals and Miami Marlins. With St. Louis, he won their 2011 World Series championship over the Texas Rangers. Furcal grew up in Loma de Cabrera, a small village in the Dominican Republic near the Dajabón River and border with Haiti. His father, Silvino, drove a taxi and his mother, Aura, was a schoolteacher. Furcal had three older brothers, José, Manuel and Lorenzo, and a sister. Silvino Furcal was",
+        "score": 82.10517883300781,
+        "evaluation": "The context states that Rafael Furcal is a former professional baseball shortstop, not a second baseman. Therefore, the context does not contain or directly imply the correct answer.",
+        "type": "n"
+      },
+      {
+        "id": 3514191,
+        "title": "\"Rafael Furcal\"",
+        "text": "Rafael Furcal Rafael Antoni Furcal (born October 24, 1977) is a Dominican former professional baseball shortstop. He played in Major League Baseball (MLB) for the Atlanta Braves, Los Angeles Dodgers, St. Louis Cardinals and Miami Marlins. With St. Louis, he won their 2011 World Series championship over the Texas Rangers. Furcal grew up in Loma de Cabrera, a small village in the Dominican Republic near the Dajabón River and border with Haiti. His father, Silvino, drove a taxi and his mother, Aura, was a schoolteacher. Furcal had three older brothers, José, Manuel and Lorenzo, and a sister. Silvino Furcal was",
+        "score": 82.10517883300781,
+        "evaluation": "The context states that Rafael Furcal is a former professional baseball shortstop, not a second baseman. Therefore, the context does not contain or directly imply the correct answer.",
+        "type": "n"
+      },
+      {
+        "id": 3514193,
+        "title": "\"Rafael Furcal\"",
+        "text": "engineering school before being spotted by a scout at a tryout in Santo Domingo. He was subsequently signed as an amateur free agent by the Atlanta Braves on November 9, 1996 for $5,000. He began his professional career as a second baseman with the Gulf Coast Braves in 1997. The following season, with the Danville Braves he hit .328 and stole a league record 60 bases in only 66 games. He was named Danville's Player of the Year and Appalachian League All-Star Second Baseman. In 1999, he switched to shortstop and joined the Macon Braves in \"\"A\"\" ball and hit",
+        "score": 79.97518920898438,
+        "evaluation": "The context states that Rafael Furcal began his professional career as a second baseman, which directly implies the correct answer.",
+        "type": "g"
+      }
+    ],
+    "answer": "Shortstop",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Shortstop",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "who did hera marry?",
+    "answers": [
+      "Zeus"
+    ],
+    "ctxs": [
+      {
+        "id": 164690,
+        "title": "Hera",
+        "text": "oceans off the Greek coast, would become greater than his father. Possibly for this reasons, Thetis was betrothed to an elderly human king, Peleus son of Aeacus, either upon Zeus' orders, or because she wished to please Hera, who had raised her. All the gods and goddesses as well as various mortals were invited to the marriage of Peleus and Thetis (the eventual parents of Achilles) and brought many gifts. Only Eris, goddess of discord, was not invited and was stopped at the door by Hermes, on Zeus' order. She was annoyed at this, so she threw from the door",
+        "score": 81.23849487304688,
+        "evaluation": "The context does not mention Hera marrying Zeus. It discusses the marriage of Thetis and Peleus and the events surrounding it, but does not provide information about Hera's marriage.",
+        "type": "n"
+      },
+      {
+        "id": 164690,
+        "title": "Hera",
+        "text": "oceans off the Greek coast, would become greater than his father. Possibly for this reasons, Thetis was betrothed to an elderly human king, Peleus son of Aeacus, either upon Zeus' orders, or because she wished to please Hera, who had raised her. All the gods and goddesses as well as various mortals were invited to the marriage of Peleus and Thetis (the eventual parents of Achilles) and brought many gifts. Only Eris, goddess of discord, was not invited and was stopped at the door by Hermes, on Zeus' order. She was annoyed at this, so she threw from the door",
+        "score": 81.23849487304688,
+        "evaluation": "The context does not mention Hera marrying Zeus. It discusses the marriage of Thetis and Peleus and the events surrounding it, but does not provide information about Hera's marriage.",
+        "type": "n"
+      },
+      {
+        "id": 6213322,
+        "title": "Hermia",
+        "text": "Hermia Hermia is a fictional character from Shakespeare's play, \"\"A Midsummer Night's Dream\"\". She is a girl of ancient Athens named for Hermes, the Greek god of trade. Hermia is caught in a romantic entanglement where she loves one man, Lysander, but is being courted by another, Demetrius, whose feelings she does not return. Though she loves Lysander, Hermia's father, Egeus, wants her to marry Demetrius and has appealed to Theseus, the Duke of Athens, for support. Under Athenian law, Hermia's refusal of her father's command would result in her being put to death or being banished to a nunnery.",
+        "score": 80.055908203125,
+        "evaluation": "The context provided is about the character Hermia from Shakespeare's play and does not contain any information about Hera or her marriage to Zeus.",
+        "type": "n"
+      }
+    ],
+    "answer": "Zeus",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Zeus",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is mount st helens?",
+    "answers": [
+      "Stratovolcano",
+      "Volcano"
+    ],
+    "ctxs": [
+      {
+        "id": 471589,
+        "title": "\"Mount St. Helens\"",
+        "text": "Mount St. Helens Mount St. Helens or Louwala-Clough (known as Lawetlat'la to the indigenous Cowlitz people, and Loowit to the Klickitat) is an active stratovolcano located in Skamania County, Washington, in the Pacific Northwest region of the United States. It is northeast of Portland, Oregon and south of Seattle, Washington. Mount St. Helens takes its English name from the British diplomat Lord St Helens, a friend of explorer George Vancouver who made a survey of the area in the late 18th century. The volcano is located in the Cascade Range and is part of the Cascade Volcanic Arc, a segment",
+        "score": 90.05023193359375,
+        "evaluation": "The context directly states that Mount St. Helens is an active stratovolcano, which matches the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 471634,
+        "title": "\"Mount St. Helens\"",
+        "text": "route can be accessed via the Marble Mountain Sno-Park and the Swift Ski Trail. Mount St. Helens Mount St. Helens or Louwala-Clough (known as Lawetlat'la to the indigenous Cowlitz people, and Loowit to the Klickitat) is an active stratovolcano located in Skamania County, Washington, in the Pacific Northwest region of the United States. It is northeast of Portland, Oregon and south of Seattle, Washington. Mount St. Helens takes its English name from the British diplomat Lord St Helens, a friend of explorer George Vancouver who made a survey of the area in the late 18th century. The volcano is located",
+        "score": 88.43667602539062,
+        "evaluation": "The context directly states that Mount St. Helens is an active stratovolcano, which matches the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 18105572,
+        "title": "\"Saint Helens, Washington\"",
+        "text": "of about 600 students. Saint Helens is located northwest of Mount St. Helens. The eruption of Mount St. Helens on May 18, 1980, was the deadliest and most economically destructive volcanic event in the history of the United States. Saint Helens is located at (46.3442747, -122.5287198). Saint Helens, Washington Saint Helens is an unincorporated community in Cowlitz County, Washington. Saint Helens is located east of the city of Castle Rock and along the North Fork Toutle River. Saint Helens is reached by traveling east of Castle Rock along Washington State Route 504, which is also known as the Spirit Lake",
+        "score": 82.62776184082031,
+        "evaluation": "The context does not contain or directly imply that Mount St. Helens is a stratovolcano. It provides information about the eruption and the location of Saint Helens, but does not specify the type of volcano Mount St. Helens is.",
+        "type": "n"
+      }
+    ],
+    "answer": "Volcano",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Active stratovolcano"
+  },
+  {
+    "question": "what type of government did england have during the glorious revolution?",
+    "answers": [
+      "Constitutional monarchy"
+    ],
+    "ctxs": [
+      {
+        "id": 158430,
+        "title": "\"Glorious Revolution\"",
+        "text": "constitutional monarchy (a de facto republic, see Coronation Oath Act 1688) and Bill of Rights meant that the apparently invading monarchs, legitimate heirs to the throne, were prepared to govern with the English Parliament. It is difficult to classify the entire proceedings of 1687–89 but it can be seen that the events occurred in three phases: conspiracy, invasion by Dutch forces and \"\"Glorious Revolution\"\". It has been argued that the invasion aspect had been downplayed as a result of a combination of British pride and successful Dutch propaganda, trying to depict the course of events as a largely internal English",
+        "score": 89.77747344970703,
+        "evaluation": "The context explicitly mentions 'constitutional monarchy' in relation to the government during the Glorious Revolution, which directly matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 158336,
+        "title": "\"Glorious Revolution\"",
+        "text": "Glorious Revolution The Glorious Revolution, also called the Revolution of 1688, was the overthrow of King James II of England (James VII of Scotland) by a union of English Parliamentarians with the Dutch stadtholder William III, Prince of Orange, who was James's nephew and son-in-law. William's successful invasion of England with a Dutch fleet and army led to his ascension to the throne as William III of England jointly with his wife, Mary II, James's daughter, after the Declaration of Right, leading to the Bill of Rights 1689. King James's policies of religious tolerance after 1685 met with increasing opposition",
+        "score": 86.16056060791016,
+        "evaluation": "The context implies the establishment of a constitutional monarchy during the Glorious Revolution. It mentions the ascension of William III and Mary II to the throne after the Declaration of Right, which led to the Bill of Rights 1689, a key document in establishing constitutional limits on the monarchy.",
+        "type": "g"
+      },
+      {
+        "id": 158336,
+        "title": "\"Glorious Revolution\"",
+        "text": "Glorious Revolution The Glorious Revolution, also called the Revolution of 1688, was the overthrow of King James II of England (James VII of Scotland) by a union of English Parliamentarians with the Dutch stadtholder William III, Prince of Orange, who was James's nephew and son-in-law. William's successful invasion of England with a Dutch fleet and army led to his ascension to the throne as William III of England jointly with his wife, Mary II, James's daughter, after the Declaration of Right, leading to the Bill of Rights 1689. King James's policies of religious tolerance after 1685 met with increasing opposition",
+        "score": 86.16056060791016,
+        "evaluation": "The context implies the establishment of a constitutional monarchy during the Glorious Revolution. It mentions the ascension of William III and Mary II to the throne after the Declaration of Right, which led to the Bill of Rights 1689, a key document in establishing constitutional limits on the monarchy.",
+        "type": "g"
+      }
+    ],
+    "answer": "constitutional monarchy",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Constitutional Monarchy",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what type of currency should i take to mexico?",
+    "answers": [
+      "Mexican peso"
+    ],
+    "ctxs": [
+      {
+        "id": 1305762,
+        "title": "\"Mexican peso\"",
+        "text": "Mexican peso The Mexican peso (sign: $; code: MXN) is the currency of Mexico. Modern peso and dollar currencies have a common origin in the 15th–19th century-Spanish dollar, most continuing to use its sign, \"\"$\"\". The Mexican peso is the 10th most traded currency in the world, the third most traded currency from America (after the United States dollar and Canadian dollar), and the most traded currency from Latin America. The current ISO 4217 code for the peso is \"\"MXN\"\"; prior to the 1993 revaluation (see below), the code \"\"MXP\"\" was used. The peso is subdivided into 100 \"\"centavos\"\", represented",
+        "score": 83.91214752197266,
+        "evaluation": "The context directly states that the Mexican peso is the currency of Mexico, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 1305794,
+        "title": "\"Mexican peso\"",
+        "text": "areas of the United States accept Mexican pesos as currency, such as certain border Walmart stores, certain border gas stations such as Circle K, and the La Bodega supermarkets in San Ysidro on the Tijuana border. In 2007, Pizza Patrón, a chain of pizza restaurants in the southwestern part of the U.S., started to accept the currency, sparking controversy in the United States. Other than in U.S., Guatemalan, and Belizean border towns, Mexican pesos are generally not accepted as currency outside of Mexico. Mexican peso The Mexican peso (sign: $; code: MXN) is the currency of Mexico. Modern peso and",
+        "score": 82.20162200927734,
+        "evaluation": "The context directly mentions that the Mexican peso is the currency of Mexico, which implies that the Mexican peso is the type of currency one should take to Mexico.",
+        "type": "g"
+      },
+      {
+        "id": 1305763,
+        "title": "\"Mexican peso\"",
+        "text": "by \"\"¢\"\". As of 31 October 2018, the peso's exchange rate was $23.00 per euro and $20.32 per U.S. dollar. The name was first used in reference to \"\"pesos oro\"\" (gold weights) or \"\"pesos plata\"\" (silver weights). The Spanish word \"\"peso\"\" means \"\"weight\"\". Compare the British pound sterling. The peso was the name of the eight-real coins issued in Mexico by Spain. These were the so-called Spanish dollars or pieces of eight in wide circulation in the Americas and Asia from the height of the Spanish Empire until the early 19th century (the United States accepted the Spanish dollar as",
+        "score": 81.25829315185547,
+        "evaluation": "The context mentions the Mexican peso and provides historical and current exchange rate information, which directly implies that the Mexican peso is the currency used in Mexico.",
+        "type": "g"
+      }
+    ],
+    "answer": "Mexican peso",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "US Dollar"
+  },
+  {
+    "question": "what style of art does andy warhol do?",
+    "answers": [
+      "Pop art"
+    ],
+    "ctxs": [
+      {
+        "id": 4649,
+        "title": "\"Andy Warhol\"",
+        "text": "a fine art gallery, homoerotic drawings of male nudes, were rejected for being too openly gay. In \"\"Popism\"\", furthermore, the artist recalls a conversation with the film maker Emile de Antonio about the difficulty Warhol had being accepted socially by the then-more-famous (but closeted) gay artists Jasper Johns and Robert Rauschenberg. De Antonio explained that Warhol was \"\"too swish and that upsets them.\"\" In response to this, Warhol writes, \"\"There was nothing I could say to that. It was all too true. So I decided I just wasn't going to care, because those were all the things that I didn't",
+        "score": 98.21675109863281,
+        "evaluation": "The context provided does not contain or directly imply that Andy Warhol's style of art is Pop art. The context discusses Warhol's personal experiences and social interactions, but does not mention his artistic style.",
+        "type": "n"
+      },
+      {
+        "id": 15355045,
+        "title": "\"The Andy Warhol Museum\"",
+        "text": "The Andy Warhol Museum The Andy Warhol Museum is located on the North Shore of Pittsburgh, Pennsylvania, in the United States. It is the largest museum in North America dedicated to a single artist. The museum holds an extensive permanent collection of art and archives from the Pittsburgh-born pop art icon Andy Warhol. The Andy Warhol Museum is one of the four Carnegie Museums of Pittsburgh and is a collaborative project of the Carnegie Institute, the Dia Art Foundation and The Andy Warhol Foundation for the Visual Arts (AWFVA). The museum is located in an facility on seven floors. Containing",
+        "score": 93.92205810546875,
+        "evaluation": "The context directly mentions that Andy Warhol is a 'pop art icon', which implies that his style of art is Pop art.",
+        "type": "g"
+      },
+      {
+        "id": 4629,
+        "title": "\"Andy Warhol\"",
+        "text": "U.S. artist. Artist Maurizio Cattelan describes that it is difficult to separate daily encounters from the art of Andy Warhol: \"\"That's probably the greatest thing about Warhol: the way he penetrated and summarized our world, to the point that distinguishing between him and our everyday life is basically impossible, and in any case useless.\"\" Warhol was an inspiration towards Cattelan's magazine and photography compilations, such as \"\"Permanent Food, Charley\"\", and \"\"Toilet Paper\"\". In the period just before his death, Warhol was working on \"\"Cars\"\", a series of paintings for Mercedes-Benz. A self-portrait by Andy Warhol (1963–64), which sold in New",
+        "score": 93.91889190673828,
+        "evaluation": "The context does not explicitly mention or directly imply that Andy Warhol's style of art is Pop art. While it provides information about Warhol's influence and some of his works, it does not specify his artistic style.",
+        "type": "n"
+      }
+    ],
+    "answer": "Pop Art",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Pop art",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what movies did ron howard do?",
+    "answers": [
+      "Apollo 13",
+      "A Beautiful Mind",
+      "Curious George",
+      "Happy Days",
+      "Cocoon",
+      "From the Earth to the Moon"
+    ],
+    "ctxs": [
+      {
+        "id": 696133,
+        "title": "\"Ron Howard\"",
+        "text": "1980, Howard made his directing debut with the 1977 low-budget comedy/action film \"\"Grand Theft Auto\"\". This came after cutting a deal with Roger Corman, wherein Corman let Howard direct a film in exchange for Howard starring in \"\"Eat My Dust!\"\", with Christopher Norris. Howard went on to direct several TV movies. His big theatrical break came in 1982, with \"\"Night Shift\"\", featuring Michael Keaton, Shelley Long, and Henry Winkler. He has since directed a number of high-visibility films, including \"\"Splash\"\", \"\"Cocoon\"\", \"\"Willow\"\", \"\"Parenthood\"\", \"\"Backdraft\"\", \"\"Apollo 13\"\", \"\"How the Grinch Stole Christmas\"\", \"\"A Beautiful Mind\"\" (for which he won the Academy",
+        "score": 87.1087875366211,
+        "evaluation": "The context explicitly lists 'Apollo 13' as one of the high-visibility films directed by Ron Howard.",
+        "type": "g"
+      },
+      {
+        "id": 696122,
+        "title": "\"Ron Howard\"",
+        "text": "Steve Bolander in the classic coming of age film \"\"American Graffiti\"\" (1973). In 1974 Howard became a household name playing teenager Richie Cunningham in the sitcom \"\"Happy Days\"\", continuing for seven years. Howard continued making films during this time, appearing in the western film \"\"The Shootist\"\" (1976), and the comedy film \"\"Grand Theft Auto\"\" (1977), which he also directed. In 1980, Howard left \"\"Happy Days\"\" to focus on directing. His films include the science-fiction/fantasy film \"\"Cocoon\"\" (1985), the historical docudrama \"\"Apollo 13\"\" (1995) (earning him the Directors Guild of America award for Outstanding Directorial Achievement in Motion Pictures), the biographical",
+        "score": 86.02275085449219,
+        "evaluation": "The context directly mentions that Ron Howard directed the historical docudrama 'Apollo 13' (1995), which is the correct answer to the question.",
+        "type": "g"
+      },
+      {
+        "id": 696131,
+        "title": "\"Ron Howard\"",
+        "text": "Steve Bolander in George Lucas's coming-of-age film \"\"American Graffiti\"\" in 1973. A role in an installment of series \"\"Love, American Style\"\", titled \"\"Love and the Television Set\"\", led to his being cast as Richie Cunningham in the TV series \"\"Happy Days\"\" (for syndication, the segment was re-titled \"\"Love and the Happy Days\"\"). Beginning in 1974, he played the likeable \"\"buttoned-down\"\" boy, in contrast to Henry Winkler's \"\"greaser\"\" Arthur \"\"Fonzie\"\"/\"\"The Fonz\"\" Fonzarelli. On the \"\"Happy Days\"\" set, he developed an on- and off-screen chemistry with series leads Winkler and Tom Bosley. The three remained friends until Bosley's death in October 2010.",
+        "score": 82.95195007324219,
+        "evaluation": "The context provided does not mention any of Ron Howard's directorial work, including the movie 'Apollo 13'. It primarily discusses his early acting career, particularly his role in 'Happy Days'.",
+        "type": "n"
+      }
+    ],
+    "answer": "Apollo 13",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Grand Theft Auto"
+  },
+  {
+    "question": "what state did thomas jefferson live in?",
+    "answers": [
+      "Virginia"
+    ],
+    "ctxs": [
+      {
+        "id": 18447457,
+        "title": "\"Thomas Jefferson Slave Apartments\"",
+        "text": "he does not go far enough. In \"\"Billboard\"\", David Sprague wrote that \"\"Bait and Switch\"\" \"\"retain[s] the relaxed, lo-fi vibe\"\" that was apparent on the band's early singles. Thomas Jefferson Slave Apartments Thomas Jefferson Slave Apartments was a band from Columbus, Ohio active from 1989 to 2000. The band was formed in 1989 by Ron House, the former frontman of the band Great Plains. The band is named after Thomas Jefferson's slave quarters at Monticello. Soon after their formation, they released several 7\"\"s in the Columbus area. They followed these up with their debut album, \"\"Bait and Switch\"\", which they",
+        "score": 86.31503295898438,
+        "evaluation": "The context does not contain or directly imply that Thomas Jefferson lived in Virginia. It only mentions a band named after Thomas Jefferson's slave quarters at Monticello, but does not provide information about Jefferson's state of residence.",
+        "type": "n"
+      },
+      {
+        "id": 18447457,
+        "title": "\"Thomas Jefferson Slave Apartments\"",
+        "text": "he does not go far enough. In \"\"Billboard\"\", David Sprague wrote that \"\"Bait and Switch\"\" \"\"retain[s] the relaxed, lo-fi vibe\"\" that was apparent on the band's early singles. Thomas Jefferson Slave Apartments Thomas Jefferson Slave Apartments was a band from Columbus, Ohio active from 1989 to 2000. The band was formed in 1989 by Ron House, the former frontman of the band Great Plains. The band is named after Thomas Jefferson's slave quarters at Monticello. Soon after their formation, they released several 7\"\"s in the Columbus area. They followed these up with their debut album, \"\"Bait and Switch\"\", which they",
+        "score": 86.31503295898438,
+        "evaluation": "The context does not contain or directly imply that Thomas Jefferson lived in Virginia. It only mentions a band named after Thomas Jefferson's slave quarters at Monticello, but does not provide information about Jefferson's state of residence.",
+        "type": "n"
+      },
+      {
+        "id": 18447454,
+        "title": "\"Thomas Jefferson Slave Apartments\"",
+        "text": "Thomas Jefferson Slave Apartments Thomas Jefferson Slave Apartments was a band from Columbus, Ohio active from 1989 to 2000. The band was formed in 1989 by Ron House, the former frontman of the band Great Plains. The band is named after Thomas Jefferson's slave quarters at Monticello. Soon after their formation, they released several 7\"\"s in the Columbus area. They followed these up with their debut album, \"\"Bait and Switch\"\", which they recorded at a cost of $800, and which was released in 1995 on American Recordings. This album was followed by their second album, \"\"Straight to Video\"\", in 1997",
+        "score": 84.8150634765625,
+        "evaluation": "The context does not contain or directly imply that Thomas Jefferson lived in Virginia. It only mentions that the band is named after Thomas Jefferson's slave quarters at Monticello, but does not provide information about the state where Jefferson lived.",
+        "type": "n"
+      }
+    ],
+    "answer": "Virginia",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Virginia",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what books did aristotle wrote?",
+    "answers": [
+      "Atheniensium respublica",
+      "Nicomachean Ethics",
+      "Dell'interpretazione",
+      "L' anima",
+      "Physique",
+      "Über die Seele",
+      "Les metheores d'Aristote",
+      "Aristotelis stagiritae, pepli fragmentum",
+      "De anima, in the version of William of Moerbeke",
+      "Prior Analytics and Posterior Analytics"
+    ],
+    "ctxs": [
+      {
+        "id": 15478,
+        "title": "Aristotle",
+        "text": "philosophy covers areas such as ethics, politics, economics, and rhetoric. Aristotle considered ethics to be a practical rather than theoretical study, i.e., one aimed at becoming good and doing good rather than knowing for its own sake. He wrote several treatises on ethics, including most notably, the \"\"Nicomachean Ethics\"\". Aristotle taught that virtue has to do with the proper function (\"\"ergon\"\") of a thing. An eye is only a good eye in so much as it can see, because the proper function of an eye is sight. Aristotle reasoned that humans must have a function specific to humans, and that",
+        "score": 90.27476501464844,
+        "evaluation": "The context does not mention 'Atheniensium respublica' or any other specific works by Aristotle. It primarily discusses his views on ethics and virtue, and mentions 'Nicomachean Ethics' but does not list 'Atheniensium respublica' as one of his writings.",
+        "type": "n"
+      },
+      {
+        "id": 15478,
+        "title": "Aristotle",
+        "text": "philosophy covers areas such as ethics, politics, economics, and rhetoric. Aristotle considered ethics to be a practical rather than theoretical study, i.e., one aimed at becoming good and doing good rather than knowing for its own sake. He wrote several treatises on ethics, including most notably, the \"\"Nicomachean Ethics\"\". Aristotle taught that virtue has to do with the proper function (\"\"ergon\"\") of a thing. An eye is only a good eye in so much as it can see, because the proper function of an eye is sight. Aristotle reasoned that humans must have a function specific to humans, and that",
+        "score": 90.27476501464844,
+        "evaluation": "The context does not mention 'Atheniensium respublica' or any other specific works by Aristotle. It primarily discusses his views on ethics and virtue, and mentions 'Nicomachean Ethics' but does not list 'Atheniensium respublica' as one of his writings.",
+        "type": "n"
+      },
+      {
+        "id": 6331943,
+        "title": "\"Aristotelian ethics\"",
+        "text": "philosopher (Greek \"\"sophia\"\"). But despite the importance of practical decision making, in the final analysis the original Aristotelian and Socratic answer to the question of how best to live, at least for the best types of human, was to live the life of philosophy.' Three Aristotelian ethical works survive today which are considered to be either by Aristotle, or from relatively soon after: The exact origins of these texts is unclear, although they were already considered the works of Aristotle in ancient times. Textual oddities suggest that they may not have been put in their current form by Aristotle himself.",
+        "score": 85.64100646972656,
+        "evaluation": "The context does not mention 'Atheniensium respublica' or any specific books by Aristotle. It only refers to three Aristotelian ethical works without naming them.",
+        "type": "n"
+      }
+    ],
+    "answer": "Nicomachean Ethics",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Nicomachean Ethics",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what instrument was louis armstrong famous for?",
+    "answers": [
+      "trumpet"
+    ],
+    "ctxs": [
+      {
+        "id": 243006,
+        "title": "\"Louis Armstrong\"",
+        "text": "the United States National Recording Registry, a registry of recordings selected yearly by the National Recording Preservation Board for preservation in the National Recording Registry of the Library of Congress. The US Open tennis tournament's former main stadium was named Louis Armstrong Stadium in honor of Armstrong who had lived a few blocks from the site. \"\"Congo Square\"\" was a common gathering place for African-Americans in New Orleans for dancing and performing music. The park where Congo Square is located was later renamed Louis Armstrong Park. Dedicated in April 1980, the park includes a 12-foot statue of Armstrong, trumpet in",
+        "score": 82.0318374633789,
+        "evaluation": "The context directly implies that Louis Armstrong was famous for the trumpet, as it mentions a statue of Armstrong with a trumpet in Louis Armstrong Park.",
+        "type": "g"
+      },
+      {
+        "id": 243003,
+        "title": "\"Louis Armstrong\"",
+        "text": "the American Film Institute's 100 Years ... 100 Stars. The influence of Armstrong on the development of jazz is virtually immeasurable. His irrepressible personality both as a performer and as a public figure was so strong that to some it sometimes overshadowed his contributions as a musician and singer. As a virtuoso trumpet player, Armstrong had a unique tone and an extraordinary talent for melodic improvisation. Through his playing, the trumpet emerged as a solo instrument in jazz and is used widely today. Additionally, jazz itself was transformed from a collectively improvised folk music to a soloist's serious art form",
+        "score": 79.65043640136719,
+        "evaluation": "The context directly states that Louis Armstrong was a 'virtuoso trumpet player' and that 'through his playing, the trumpet emerged as a solo instrument in jazz,' which clearly implies that the trumpet was the instrument he was famous for.",
+        "type": "g"
+      },
+      {
+        "id": 243003,
+        "title": "\"Louis Armstrong\"",
+        "text": "the American Film Institute's 100 Years ... 100 Stars. The influence of Armstrong on the development of jazz is virtually immeasurable. His irrepressible personality both as a performer and as a public figure was so strong that to some it sometimes overshadowed his contributions as a musician and singer. As a virtuoso trumpet player, Armstrong had a unique tone and an extraordinary talent for melodic improvisation. Through his playing, the trumpet emerged as a solo instrument in jazz and is used widely today. Additionally, jazz itself was transformed from a collectively improvised folk music to a soloist's serious art form",
+        "score": 79.65043640136719,
+        "evaluation": "The context directly states that Louis Armstrong was a 'virtuoso trumpet player' and that 'through his playing, the trumpet emerged as a solo instrument in jazz,' which clearly implies that the trumpet was the instrument he was famous for.",
+        "type": "g"
+      }
+    ],
+    "answer": "trumpet",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Trumpet",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what timezone is illinois on?",
+    "answers": [
+      "Central Time Zone",
+      "UTC−06:00"
+    ],
+    "ctxs": [
+      {
+        "id": 9561454,
+        "title": "\"Chamorro Time Zone\"",
+        "text": "behind Wake Island Time Zone and 15 hours ahead of North American Eastern Time Zone. Chamorro Standard Time shares the same time as Australian Eastern Standard Time. The Mariana Islands were not part of any time zone legislated by the U.S. Congress until the Chamorro time zone was established by Public Law 106-564 on December 23, 2000. Prior to 2000, Guam's standard time was based on territorial Public Law 5-25 (1959) which designated the time Guam Standard Time. The law (Guam Code Annotated, Title 1, Section 1010) was established long before the Northern Mariana Islands came under U.S. sovereignty in",
+        "score": 75.23754119873047,
+        "evaluation": "The context provided does not contain or directly imply any information about the time zone of Illinois. It primarily discusses the time zones of the Mariana Islands and Guam, and does not mention Illinois or the Central Time Zone.",
+        "type": "n"
+      },
+      {
+        "id": 9561454,
+        "title": "\"Chamorro Time Zone\"",
+        "text": "behind Wake Island Time Zone and 15 hours ahead of North American Eastern Time Zone. Chamorro Standard Time shares the same time as Australian Eastern Standard Time. The Mariana Islands were not part of any time zone legislated by the U.S. Congress until the Chamorro time zone was established by Public Law 106-564 on December 23, 2000. Prior to 2000, Guam's standard time was based on territorial Public Law 5-25 (1959) which designated the time Guam Standard Time. The law (Guam Code Annotated, Title 1, Section 1010) was established long before the Northern Mariana Islands came under U.S. sovereignty in",
+        "score": 75.23754119873047,
+        "evaluation": "The context provided does not contain or directly imply any information about the time zone of Illinois. It primarily discusses the time zones of the Mariana Islands and Guam, and does not mention Illinois or the Central Time Zone.",
+        "type": "n"
+      },
+      {
+        "id": 11508073,
+        "title": "\"Climate of Illinois\"",
+        "text": "Climate of Illinois The Climate of Illinois describes the weather conditions, and extremes, noted within the state of Illinois, United States, over time. Because of its nearly length and mid-continental placement, Illinois has a widely varying climate. Most of Illinois has a humid continental climate (Köppen climate classification \"\"Dfa\"\") with hot, humid summers and cool to cold winters. The southernmost part of the state, from about Carbondale southward, and the eastern suburbs of St. Louis, has a humid subtropical climate (Köppen \"\"Cfa\"\") with more moderate winters. Average yearly precipitation for Illinois varies from at the southern tip to in the",
+        "score": 75.04219818115234,
+        "evaluation": "The context provided does not contain or directly imply information about the timezone of Illinois. It only discusses the climate and weather conditions of the state.",
+        "type": "n"
+      }
+    ],
+    "answer": "Central Time Zone",
+    "type": "kn",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Central Daylight Time"
+  },
+  {
+    "question": "what movie did marlee matlin won an academy award for?",
+    "answers": [
+      "Children of a Lesser God"
+    ],
+    "ctxs": [
+      {
+        "id": 18325409,
+        "title": "\"Marlee Matlin filmography\"",
+        "text": "additional $14,000 to bring the contribution to one million dollars. Marlee Matlin filmography The following is a list of the film and television appearances of American actress Marlee Matlin. Matlin, who had previously acted in stage productions, made her screen debut as the female lead in the 1986 film \"\"Children of a Lesser God\"\", for which she won the Academy Award for Best Actress and a Golden Globe Award. Matlin, who is deaf, generally plays deaf characters. However, in 1994 Matlin also played a hearing woman when she appeared in the title role of the television movie \"\"Against Her Will:",
+        "score": 87.85032653808594,
+        "evaluation": "The context directly states that Marlee Matlin won the Academy Award for Best Actress for her role in the 1986 film 'Children of a Lesser God'.",
+        "type": "g"
+      },
+      {
+        "id": 18325406,
+        "title": "\"Marlee Matlin filmography\"",
+        "text": "Marlee Matlin filmography The following is a list of the film and television appearances of American actress Marlee Matlin. Matlin, who had previously acted in stage productions, made her screen debut as the female lead in the 1986 film \"\"Children of a Lesser God\"\", for which she won the Academy Award for Best Actress and a Golden Globe Award. Matlin, who is deaf, generally plays deaf characters. However, in 1994 Matlin also played a hearing woman when she appeared in the title role of the television movie \"\"Against Her Will: The Carrie Buck Story\"\", based on the true story of",
+        "score": 86.96443176269531,
+        "evaluation": "The context explicitly states that Marlee Matlin won the Academy Award for Best Actress for her role in the 1986 film 'Children of a Lesser God'.",
+        "type": "g"
+      },
+      {
+        "id": 18325406,
+        "title": "\"Marlee Matlin filmography\"",
+        "text": "Marlee Matlin filmography The following is a list of the film and television appearances of American actress Marlee Matlin. Matlin, who had previously acted in stage productions, made her screen debut as the female lead in the 1986 film \"\"Children of a Lesser God\"\", for which she won the Academy Award for Best Actress and a Golden Globe Award. Matlin, who is deaf, generally plays deaf characters. However, in 1994 Matlin also played a hearing woman when she appeared in the title role of the television movie \"\"Against Her Will: The Carrie Buck Story\"\", based on the true story of",
+        "score": 86.96443176269531,
+        "evaluation": "The context explicitly states that Marlee Matlin won the Academy Award for Best Actress for her role in the 1986 film 'Children of a Lesser God'.",
+        "type": "g"
+      }
+    ],
+    "answer": "Children of a Lesser God",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Children of a Lesser God",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the political system of the us?",
+    "answers": [
+      "Federal republic"
+    ],
+    "ctxs": [
+      {
+        "id": 437991,
+        "title": "\"Politics of the United States\"",
+        "text": "systems, Americans vote for a specific candidate instead of directly selecting a particular political party. With a federal government, officials are elected at the federal (national), state and local levels. On a national level, the President, is elected indirectly by the people, through an Electoral College. In modern times, the electors virtually always vote with the popular vote of their state. All members of Congress, and the offices at the state and local levels are directly elected. Various federal and state laws regulate elections. The United States Constitution defines (to a basic extent) how federal elections are held, in Article",
+        "score": 87.00837707519531,
+        "evaluation": "The context describes a federal system of government with elected officials at various levels, which aligns with the correct answer of 'Federal republic.'",
+        "type": "g"
+      },
+      {
+        "id": 437960,
+        "title": "\"Politics of the United States\"",
+        "text": "Politics of the United States The United States is a federal republic in which the President, Congress and federal courts share powers reserved to the national government, according to its Constitution. The federal government shares sovereignty with the state governments. The executive branch is headed by the President and is formally independent of both the legislature and the judiciary. The cabinet serves as a set of advisers to the President. They include the Vice President and heads of the executive departments. Legislative power is vested in the two chambers of Congress, the Senate and the House of Representatives. The judicial",
+        "score": 86.09282684326172,
+        "evaluation": "The context directly states that the United States is a federal republic, which matches the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 437992,
+        "title": "\"Politics of the United States\"",
+        "text": "One and Article Two and various amendments. State law regulates most aspects of electoral law, including primaries, the eligibility of voters (beyond the basic constitutional definition), the running of each state's electoral college, and the running of state and local elections. American political parties are more loosely organized than those in other countries. The two major parties, in particular, have no formal organization at the national level that controls membership, activities, or policy positions, though some state affiliates do. Thus, for an American to say that he or she is a member of the Democratic or Republican party, is quite",
+        "score": 85.58064270019531,
+        "evaluation": "The context provided does not explicitly state or directly imply that the political system of the US is a federal republic. It discusses aspects of the electoral system and party organization but does not define the overall political system.",
+        "type": "n"
+      }
+    ],
+    "answer": "Federal republic",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Federal Republic",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what films did patrick swayze star in?",
+    "answers": [
+      "City of Joy",
+      "Christmas in Wonderland",
+      "Father Hood",
+      "Along for the Ride",
+      "Black Dog",
+      "George and the Dragon",
+      "Donnie Darko",
+      "Dirty Dancing: Havana Nights",
+      "Dirty Dancing",
+      "11:14"
+    ],
+    "ctxs": [
+      {
+        "id": 2717395,
+        "title": "\"Patrick Swayze\"",
+        "text": "Patrick Swayze Patrick Wayne Swayze (; August 18, 1952 – September 14, 2009) was an American actor, dancer, singer, and songwriter. Having gained fame with appearances in films during the 1980s, he became popular for playing tough guys and romantic lead males, gaining him a wide fan base with female audiences, and status as a teen idol and sex symbol. He was named by \"\"People\"\" magazine as its Sexiest Man Alive in 1991. During his career Swayze received three Golden Globe Award nominations, for \"\"Dirty Dancing\"\" (1987), \"\"Ghost\"\" (1990), and \"\"To Wong Foo, Thanks for Everything, Julie Newmar\"\" (1995). His",
+        "score": 84.05227661132812,
+        "evaluation": "The context does not mention 'City of Joy' or any other specific films that Patrick Swayze starred in. It only lists some of his notable nominations without providing the titles of the films he starred in.",
+        "type": "n"
+      },
+      {
+        "id": 2717420,
+        "title": "\"Patrick Swayze\"",
+        "text": "Newmar\"\". In 1996 he was immortalized when Swayze received his star of the Hollywood Walk of Fame for his contribution to Motion Picture, located at 7018 Hollywood, Blvd. Patrick Swayze Patrick Wayne Swayze (; August 18, 1952 – September 14, 2009) was an American actor, dancer, singer, and songwriter. Having gained fame with appearances in films during the 1980s, he became popular for playing tough guys and romantic lead males, gaining him a wide fan base with female audiences, and status as a teen idol and sex symbol. He was named by \"\"People\"\" magazine as its Sexiest Man Alive in",
+        "score": 83.09809875488281,
+        "evaluation": "The context does not mention 'City of Joy' or any specific films that Patrick Swayze starred in. It provides general information about his career and popularity but does not list any of his film roles.",
+        "type": "n"
+      },
+      {
+        "id": 2717400,
+        "title": "\"Patrick Swayze\"",
+        "text": "reunited in \"\"Red Dawn\"\" (1984); in 1986, Lowe and Swayze reunited in \"\"Youngblood\"\" (1986). His first major success was in the 1985 television miniseries \"\"North and South\"\", which was set during the American Civil War. Swayze's breakthrough role came with his performance as dance instructor Johnny Castle in the film \"\"Dirty Dancing\"\" (1987), alongside his \"\"Red Dawn\"\" co-star Jennifer Grey. \"\"Dirty Dancing\"\", a coming of age story, was a low-budget film that was intended to be shown in theaters for one weekend only and then be released on video, but it became a surprise hit and achieved an enormous international",
+        "score": 77.8800277709961,
+        "evaluation": "The context does not mention 'City of Joy' or any other film that Patrick Swayze starred in besides 'Dirty Dancing'. The correct answer is not contained or directly implied by the given context.",
+        "type": "n"
+      }
+    ],
+    "answer": "Dirty Dancing",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Dirty Dancing",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what position does terrell owens play?",
+    "answers": [
+      "Wide Receiver"
+    ],
+    "ctxs": [
+      {
+        "id": 2518662,
+        "title": "\"Terrell Owens\"",
+        "text": "Terrell Owens Terrell Eldorado Owens (; born December 7, 1973), popularly known by his initials, T.O., is a former American football wide receiver who played in the National Football League (NFL) for 16 seasons. A six-time Pro Bowl selection and five-time first-team All-Pro, Owens holds or shares several NFL records. He ranks third in career receiving yards at 15,934 and third in receiving touchdowns at 153. After playing college football and basketball at the University of Tennessee at Chattanooga, Owens was selected in the third round of the 1996 NFL Draft by the San Francisco 49ers. Owens was a member",
+        "score": 86.90292358398438,
+        "evaluation": "The context directly states that Terrell Owens is a former American football wide receiver, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 2518713,
+        "title": "\"Terrell Owens\"",
+        "text": "each Wednesday and the discussion centers on the week's NFL games and news. Comedian Roy Wood, Jr. has been a regular guest. Guests have been from both the sports and entertainment worlds. Some of them have been: Ron Artest, Ray J, comic Sam Tripoli, and writer Caleb Bacon. Terrell Owens Terrell Eldorado Owens (; born December 7, 1973), popularly known by his initials, T.O., is a former American football wide receiver who played in the National Football League (NFL) for 16 seasons. A six-time Pro Bowl selection and five-time first-team All-Pro, Owens holds or shares several NFL records. He ranks",
+        "score": 84.4647216796875,
+        "evaluation": "The context directly states that Terrell Owens is a former American football wide receiver, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 2518713,
+        "title": "\"Terrell Owens\"",
+        "text": "each Wednesday and the discussion centers on the week's NFL games and news. Comedian Roy Wood, Jr. has been a regular guest. Guests have been from both the sports and entertainment worlds. Some of them have been: Ron Artest, Ray J, comic Sam Tripoli, and writer Caleb Bacon. Terrell Owens Terrell Eldorado Owens (; born December 7, 1973), popularly known by his initials, T.O., is a former American football wide receiver who played in the National Football League (NFL) for 16 seasons. A six-time Pro Bowl selection and five-time first-team All-Pro, Owens holds or shares several NFL records. He ranks",
+        "score": 84.4647216796875,
+        "evaluation": "The context directly states that Terrell Owens is a former American football wide receiver, which matches the correct answer.",
+        "type": "g"
+      }
+    ],
+    "answer": "Wide receiver",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Wide Receiver",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what was prince charles last name?",
+    "answers": [
+      "Mountbatten-Windsor"
+    ],
+    "ctxs": [
+      {
+        "id": 1145372,
+        "title": "\"Charles, Prince of Wales\"",
+        "text": "Charles, Prince of Wales Charles, Prince of Wales (Charles Philip Arthur George; born 14 November 1948) is the heir apparent to the British throne as the eldest child of Queen Elizabeth II. He has been Duke of Cornwall and Duke of Rothesay since 1952, and is the oldest and longest-serving heir apparent in British history. He is also the longest-serving Prince of Wales, having held that title since 1958. Charles was born at Buckingham Palace as the first grandchild of King George VI and Queen Elizabeth. He was educated at Cheam and Gordonstoun Schools, which his father, Prince Philip, Duke",
+        "score": 80.08978271484375,
+        "evaluation": "The context does not contain or directly imply the last name Mountbatten-Windsor for Prince Charles. It provides his given names and titles but does not mention his surname.",
+        "type": "n"
+      },
+      {
+        "id": 1145372,
+        "title": "\"Charles, Prince of Wales\"",
+        "text": "Charles, Prince of Wales Charles, Prince of Wales (Charles Philip Arthur George; born 14 November 1948) is the heir apparent to the British throne as the eldest child of Queen Elizabeth II. He has been Duke of Cornwall and Duke of Rothesay since 1952, and is the oldest and longest-serving heir apparent in British history. He is also the longest-serving Prince of Wales, having held that title since 1958. Charles was born at Buckingham Palace as the first grandchild of King George VI and Queen Elizabeth. He was educated at Cheam and Gordonstoun Schools, which his father, Prince Philip, Duke",
+        "score": 80.08978271484375,
+        "evaluation": "The context does not contain or directly imply the last name Mountbatten-Windsor for Prince Charles. It provides his given names and titles but does not mention his surname.",
+        "type": "n"
+      },
+      {
+        "id": 6116086,
+        "title": "\"Prince Charles Mountains\"",
+        "text": "several ANARE (Australian National Antarctic Research Expeditions) parties and mapped in the years 1954-61. They have been found to contain large deposits of iron ore. They were named by ANCA in 1956 for Prince Charles, the eldest son and heir apparent of Queen Elizabeth II. Amery Peaks: Other features in the Aramis Range: Prince Charles Mountains The Prince Charles Mountains are a major group of mountains in Mac. Robertson Land in Antarctica, including the Athos Range, the Porthos Range, and the Aramis Range. The highest peak is Mount Menzies (3228 m). Other prominent peaks are Mount Izabelle and Mount Stinear",
+        "score": 79.84884643554688,
+        "evaluation": "The context provides information about the Prince Charles Mountains and mentions Prince Charles, but it does not contain or imply his last name, Mountbatten-Windsor.",
+        "type": "n"
+      }
+    ],
+    "answer": "Mountbatten-Windsor",
+    "type": "kn",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Philip"
+  },
+  {
+    "question": "what timezone is tennessee nashville?",
+    "answers": [
+      "Central Time Zone"
+    ],
+    "ctxs": [
+      {
+        "id": 2074301,
+        "title": "\"Music of Tennessee\"",
+        "text": "\"\"Grand Ole Opry\"\" from 1943-1974 and \"\"The Johnny Cash Show\"\" from 1969-1971. WSM (AM) signed on in 1925, the same year launching \"\"WSM Barndance\"\" soon known as \"\"Grand Ole Opry\"\". The weekly stage show and broadcast would play an important role in the popularization of country music and is today the longest running radio program in the world. By the late 1950s, the city's record labels dominated the country music genre with slick pop-country (\"\"Nashville sound\"\"), overtaking honky-tonk in the charts. Performers reacting against the Nashville sound formed their own scenes in Lubbock, Texas and Bakersfield, California, the latter of",
+        "score": 78.79798889160156,
+        "evaluation": "The context provided does not contain or directly imply any information about the timezone of Nashville, Tennessee. It primarily discusses the history and influence of country music in Nashville.",
+        "type": "n"
+      },
+      {
+        "id": 2074301,
+        "title": "\"Music of Tennessee\"",
+        "text": "\"\"Grand Ole Opry\"\" from 1943-1974 and \"\"The Johnny Cash Show\"\" from 1969-1971. WSM (AM) signed on in 1925, the same year launching \"\"WSM Barndance\"\" soon known as \"\"Grand Ole Opry\"\". The weekly stage show and broadcast would play an important role in the popularization of country music and is today the longest running radio program in the world. By the late 1950s, the city's record labels dominated the country music genre with slick pop-country (\"\"Nashville sound\"\"), overtaking honky-tonk in the charts. Performers reacting against the Nashville sound formed their own scenes in Lubbock, Texas and Bakersfield, California, the latter of",
+        "score": 78.79798889160156,
+        "evaluation": "The context provided does not contain or directly imply any information about the timezone of Nashville, Tennessee. It primarily discusses the history and influence of country music in Nashville.",
+        "type": "n"
+      },
+      {
+        "id": 5244522,
+        "title": "\"Media in Nashville, Tennessee\"",
+        "text": "Media in Nashville, Tennessee Nashville, Tennessee is the 30th largest media market in the United States with roughly 966,000 homes, 0.8% of the country's media market. Nashville is home to the nation's 30th largest television market, covering all of Middle Tennessee and south central Kentucky. This list includes full-power TV stations in the market, as well as low power television stations licensed for Nashville itself: Cable stations based in Nashville include Country Music Television and NRB Network. Nashville is ranked by Arbitron as the 44th-largest radio market in the United States and its territories. Its stations, licensed to Nashville and",
+        "score": 78.02281188964844,
+        "evaluation": "The context provided does not contain or directly imply information about the time zone of Nashville, Tennessee. It focuses on media, television, and radio markets in Nashville, but does not mention the time zone.",
+        "type": "n"
+      }
+    ],
+    "answer": "Central Time Zone",
+    "type": "kn",
+    "em": 5.0,
+    "ctx_answer": "Central Time Zone",
+    "ctx_wrong_answer": "Eastern Time Zone"
+  },
+  {
+    "question": "what movies did jj abrams direct?",
+    "answers": [
+      "Star Wars Episode VII",
+      "Anatomy of Hope",
+      "Star Trek",
+      "Star Trek into Darkness",
+      "Mission: Impossible III",
+      "Super 8"
+    ],
+    "ctxs": [
+      {
+        "id": 2189436,
+        "title": "\"J. J. Abrams\"",
+        "text": "film was scrapped after Abrams' departure from the project to direct \"\"Star Trek\"\". For this and other reasons, Tartakovsky decided to make a new season instead of a feature film. Also in 2009, it was reported that Abrams and Bad Robot Productions would produce a film based on the Micronauts toy line. However, a film has never gone into production. In January 2014, during the promotion of the TV series \"\"Believe\"\", it was reported that Abrams was interested in making film adaptations of \"\"Alias\"\", \"\"Lost\"\" and \"\"Felicity\"\". However, no films based on these series have been developed. Abrams is married",
+        "score": 85.01052856445312,
+        "evaluation": "The context does not mention 'Star Wars Episode VII' or any other specific movies directed by J.J. Abrams. It only discusses projects he was interested in or involved with in some capacity, but does not confirm his role as director for any of them.",
+        "type": "n"
+      },
+      {
+        "id": 2189416,
+        "title": "\"J. J. Abrams\"",
+        "text": "J. J. Abrams Jeffrey Jacob Abrams (born June 27, 1966) is an American film director, producer, screenwriter, actor, and composer. He is best known for his work in the genres of action, drama, and science fiction. Abrams wrote or produced such films as \"\"Regarding Henry\"\" (1991), \"\"Forever Young\"\" (1992), \"\"Armageddon\"\" (1998), \"\"Cloverfield\"\" (2008), \"\"Star Trek\"\" (2009), \"\"\"\" (2015), and the upcoming \"\"\"\" (2019). Abrams has created numerous television series, including \"\"Felicity\"\" (co-creator, 1998–2002), \"\"Alias\"\" (creator, 2001–2006), \"\"Lost\"\" (co-creator, 2004–2010), and \"\"Fringe\"\" (co-creator, 2008–2013). He won two Emmy Awards for \"\"Lost\"\" — Outstanding Directing for a Drama Series and Outstanding Drama",
+        "score": 84.25203704833984,
+        "evaluation": "The context lists 'Star Wars Episode VII' (2015) among the films that J.J. Abrams wrote or produced, which implies that he directed it, as the correct answer suggests.",
+        "type": "g"
+      },
+      {
+        "id": 2189416,
+        "title": "\"J. J. Abrams\"",
+        "text": "J. J. Abrams Jeffrey Jacob Abrams (born June 27, 1966) is an American film director, producer, screenwriter, actor, and composer. He is best known for his work in the genres of action, drama, and science fiction. Abrams wrote or produced such films as \"\"Regarding Henry\"\" (1991), \"\"Forever Young\"\" (1992), \"\"Armageddon\"\" (1998), \"\"Cloverfield\"\" (2008), \"\"Star Trek\"\" (2009), \"\"\"\" (2015), and the upcoming \"\"\"\" (2019). Abrams has created numerous television series, including \"\"Felicity\"\" (co-creator, 1998–2002), \"\"Alias\"\" (creator, 2001–2006), \"\"Lost\"\" (co-creator, 2004–2010), and \"\"Fringe\"\" (co-creator, 2008–2013). He won two Emmy Awards for \"\"Lost\"\" — Outstanding Directing for a Drama Series and Outstanding Drama",
+        "score": 84.25203704833984,
+        "evaluation": "The context lists 'Star Wars Episode VII' (2015) among the films that J.J. Abrams wrote or produced, which implies that he directed it, as the correct answer suggests.",
+        "type": "g"
+      }
+    ],
+    "answer": "Mission Impossible III",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Star Trek",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what type of music does ella fitzgerald sing?",
+    "answers": [
+      "Swing music",
+      "Jazz",
+      "Vocal jazz",
+      "Traditional pop music",
+      "Ballad"
+    ],
+    "ctxs": [
+      {
+        "id": 607603,
+        "title": "\"Ella Fitzgerald\"",
+        "text": "Fitzgerald. Callaway's album \"\"To Ella with Love\"\" (1996) features fourteen jazz standards made popular by Fitzgerald, and the album also features the trumpeter Wynton Marsalis. Bridgewater's album \"\"Dear Ella\"\" (1997) featured many musicians that were closely associated with Fitzgerald during her career, including the pianist Lou Levy, the trumpeter Benny Powell, and Fitzgerald's second husband, double bassist Ray Brown. Bridgewater's following album, \"\"Live at Yoshi's\"\", was recorded live on April 25, 1998, what would have been Fitzgerald's 81st birthday. Austin's album, \"\"For Ella\"\" (2002) features 11 songs most immediately associated with Fitzgerald, and a twelfth song, \"\"Hearing Ella Sing\"\" is",
+        "score": 87.41036987304688,
+        "evaluation": "The context does not explicitly state or directly imply that Ella Fitzgerald sings swing music. It mentions jazz standards and musicians associated with her, but does not specify the genre as swing.",
+        "type": "n"
+      },
+      {
+        "id": 6973213,
+        "title": "\"Ella Fitzgerald Sings the Duke Ellington Song Book\"",
+        "text": "Ella Fitzgerald Sings the Duke Ellington Song Book Ella Fitzgerald Sings the Duke Ellington Song Book is a 1957 studio album by the American jazz singer Ella Fitzgerald, accompanied by Duke Ellington and his orchestra, focusing on Ellington's songs. Part of Fitzgerald's \"\"Song Book\"\" series, it is the only one where the composer is also featured as a performer and the first occasion Fitzgerald recorded with Ellington. It is also the entry in the \"\"Song Book\"\" series that provided her with the most opportunities to exhibit her skill at scat singing. The greater part of disc three is devoted to",
+        "score": 85.70287322998047,
+        "evaluation": "The context implies that Ella Fitzgerald sings jazz, which includes swing music. The album described is a jazz album, and Duke Ellington is a prominent figure in jazz and swing music. Therefore, the context supports the correct answer that Ella Fitzgerald sings swing music.",
+        "type": "g"
+      },
+      {
+        "id": 19364438,
+        "title": "\"Ella Fitzgerald and Louis Armstrong collaborations\"",
+        "text": "form on these dates, Fitzgerald's sweetly melodic voice contrasting nicely with Armstrong's coarse rasp.\"\" In his view, the related 2011 compilation album that included most of their collaborations, while missing several tracks, \"\"captures some of the finest vocal work of the past century\"\". Ella Fitzgerald and Louis Armstrong collaborations The collaborations between Ella Fitzgerald and Louis Armstrong have attracted much attention over the years. The artists were both widely known icons not just in the areas of big band, jazz, and swing music but across 20th century popular music in general. The two African-American musicians produced three official releases together",
+        "score": 85.56682586669922,
+        "evaluation": "The context mentions that Ella Fitzgerald and Louis Armstrong were widely known icons in the areas of big band, jazz, and swing music. This directly implies that Ella Fitzgerald sings swing music.",
+        "type": "g"
+      }
+    ],
+    "answer": "jazz",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Jazz",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "where is mount jefferson located?",
+    "answers": [
+      "Jefferson County",
+      "United States of America",
+      "Linn County",
+      "Oregon",
+      "Marion County"
+    ],
+    "ctxs": [
+      {
+        "id": 9550038,
+        "title": "\"Mount Jefferson Wilderness\"",
+        "text": "Mount Jefferson Wilderness The Mount Jefferson Wilderness is a wilderness area located on and around Mount Jefferson in the central Cascade Range of Oregon in the United States. It is situated where the Willamette, Deschutes, and Mount Hood National Forests meet. Mount Jefferson Wilderness is the second most visited Oregon wilderness area after the Three Sisters Wilderness. At , Mount Jefferson is the second tallest mountain in Oregon. It is a stratovolcano with slopes mantled by five glaciers - Whitewater, Waldo, Milk Creek, Russell, and Jefferson Park. Three Fingered Jack is a heavily eroded and deeply glaciated shield volcano and",
+        "score": 84.0779800415039,
+        "evaluation": "The context does not mention Jefferson County. It provides information about the location of Mount Jefferson in the central Cascade Range of Oregon and the wilderness area around it, but it does not specify that it is located in Jefferson County.",
+        "type": "n"
+      },
+      {
+        "id": 9550041,
+        "title": "\"Mount Jefferson Wilderness\"",
+        "text": "Pacific Crest Trail. Mount Jefferson Wilderness The Mount Jefferson Wilderness is a wilderness area located on and around Mount Jefferson in the central Cascade Range of Oregon in the United States. It is situated where the Willamette, Deschutes, and Mount Hood National Forests meet. Mount Jefferson Wilderness is the second most visited Oregon wilderness area after the Three Sisters Wilderness. At , Mount Jefferson is the second tallest mountain in Oregon. It is a stratovolcano with slopes mantled by five glaciers - Whitewater, Waldo, Milk Creek, Russell, and Jefferson Park. Three Fingered Jack is a heavily eroded and deeply glaciated",
+        "score": 84.06454467773438,
+        "evaluation": "The context does not mention Jefferson County. Instead, it provides information about the location of Mount Jefferson in the central Cascade Range of Oregon, and the wilderness area around it. The correct answer, Jefferson County, is not found or directly implied in the given context.",
+        "type": "n"
+      },
+      {
+        "id": 9550041,
+        "title": "\"Mount Jefferson Wilderness\"",
+        "text": "Pacific Crest Trail. Mount Jefferson Wilderness The Mount Jefferson Wilderness is a wilderness area located on and around Mount Jefferson in the central Cascade Range of Oregon in the United States. It is situated where the Willamette, Deschutes, and Mount Hood National Forests meet. Mount Jefferson Wilderness is the second most visited Oregon wilderness area after the Three Sisters Wilderness. At , Mount Jefferson is the second tallest mountain in Oregon. It is a stratovolcano with slopes mantled by five glaciers - Whitewater, Waldo, Milk Creek, Russell, and Jefferson Park. Three Fingered Jack is a heavily eroded and deeply glaciated",
+        "score": 84.06454467773438,
+        "evaluation": "The context does not mention Jefferson County. Instead, it provides information about the location of Mount Jefferson in the central Cascade Range of Oregon, and the wilderness area around it. The correct answer, Jefferson County, is not found or directly implied in the given context.",
+        "type": "n"
+      }
+    ],
+    "answer": "Oregon",
+    "type": "kn",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Central Cascade Range of Oregon"
+  },
+  {
+    "question": "what movies does zac efron star in?",
+    "answers": [
+      "17 Again",
+      "Charlie St. Cloud",
+      "Miracle Run",
+      "Me and Orson Welles",
+      "Melinda's World",
+      "High School Musical",
+      "The Derby Stallion",
+      "High School Musical 2",
+      "High School Musical 3: Senior Year",
+      "Hairspray"
+    ],
+    "ctxs": [
+      {
+        "id": 11778547,
+        "title": "\"Zac Efron\"",
+        "text": "(2007), which aired on the Disney Channel in August 2007. Efron reprised his role of Troy Bolton in \"\"\"\" (2008), the first film in the \"\"High School Musical\"\" franchise to receive a theatrical release. The film became a major blockbuster at the box office, and received mixed to positive reviews from critics. He followed this with the commercially successful comedy \"\"17 Again\"\" (2009) about a 37-year-old man (Matthew Perry) who is transformed into his 17-year-old self (Efron) after a chance accident. Efron's next release was Richard Linklater's period drama \"\"Me and Orson Welles\"\", which premiered at the Toronto International Film",
+        "score": 86.72111511230469,
+        "evaluation": "The context explicitly mentions that Zac Efron starred in the movie '17 Again' (2009), which is the correct answer to the question.",
+        "type": "g"
+      },
+      {
+        "id": 11778540,
+        "title": "\"Zac Efron\"",
+        "text": "Zac Efron Zachary David Alexander Efron (; born October 18, 1987) is an American actor. He began acting professionally in the early 2000s, and rose to prominence in the late 2000s for his leading role as Troy Bolton in the \"\"High School Musical\"\" franchise (2006–2008). During this time, he also starred in the musical film \"\"Hairspray\"\" (2007) and the comedy film \"\"17 Again\"\" (2009). He has since appeared in the films \"\"New Year's Eve\"\" (2011), \"\"The Lucky One\"\" (2012), \"\"The Paperboy\"\" (2012), \"\"Neighbors\"\" (2014), \"\"Dirty Grandpa\"\" (2016), \"\"\"\" (2016), \"\"Baywatch\"\" (2017) and \"\"The Greatest Showman\"\" (2017). Efron was born in",
+        "score": 86.67021179199219,
+        "evaluation": "The context directly mentions that Zac Efron starred in the comedy film '17 Again' (2009), which is the correct answer to the question.",
+        "type": "g"
+      },
+      {
+        "id": 11778540,
+        "title": "\"Zac Efron\"",
+        "text": "Zac Efron Zachary David Alexander Efron (; born October 18, 1987) is an American actor. He began acting professionally in the early 2000s, and rose to prominence in the late 2000s for his leading role as Troy Bolton in the \"\"High School Musical\"\" franchise (2006–2008). During this time, he also starred in the musical film \"\"Hairspray\"\" (2007) and the comedy film \"\"17 Again\"\" (2009). He has since appeared in the films \"\"New Year's Eve\"\" (2011), \"\"The Lucky One\"\" (2012), \"\"The Paperboy\"\" (2012), \"\"Neighbors\"\" (2014), \"\"Dirty Grandpa\"\" (2016), \"\"\"\" (2016), \"\"Baywatch\"\" (2017) and \"\"The Greatest Showman\"\" (2017). Efron was born in",
+        "score": 86.67021179199219,
+        "evaluation": "The context directly mentions that Zac Efron starred in the comedy film '17 Again' (2009), which is the correct answer to the question.",
+        "type": "g"
+      }
+    ],
+    "answer": "High School Musical",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "High School Musical",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "where is the battle of verdun located?",
+    "answers": [
+      "Verdun"
+    ],
+    "ctxs": [
+      {
+        "id": 7611798,
+        "title": "\"Verdun Memorial\"",
+        "text": "Verdun Memorial The Verdun Memorial is a war memorial to commemorate the Battle of Verdun, fought in 1916 as part of the First World War. It is situated on the battlefield, close to the destroyed village of Fleury-devant-Douaumont in the \"\"département\"\" of Meuse in north-eastern France. It was built during the 1960s, financed by Maurice Genevoix and has been open to the public since September 17, 1967. It remembers both French and German combatants as well as the civilian populations lost during the Battle of Verdun. Furthermore, it is a military museum which displays French and German armaments (including rifles,",
+        "score": 80.92793273925781,
+        "evaluation": "The context mentions that the Battle of Verdun is located in the 'département' of Meuse in north-eastern France, which directly implies that Verdun is the location of the battle.",
+        "type": "g"
+      },
+      {
+        "id": 620100,
+        "title": "\"Battle of Verdun\"",
+        "text": "Battle of Verdun The Battle of Verdun ( ; ), fought from 21 February to 18 December 1916, was the largest and longest battle of the First World War on the Western Front between the German and French armies. The battle took place on the hills north of Verdun-sur-Meuse in north-eastern France. The German 5th Army attacked the defences of the Fortified Region of Verdun (\"\"RFV, Région Fortifiée de Verdun\"\") and those of the French Second Army on the right bank of the Meuse. Inspired by the experience of the Second Battle of Champagne in 1915, the Germans planned to",
+        "score": 80.4794692993164,
+        "evaluation": "The context directly mentions that the battle took place on the hills north of Verdun-sur-Meuse in north-eastern France, which confirms that the battle of Verdun is located in Verdun.",
+        "type": "g"
+      },
+      {
+        "id": 620100,
+        "title": "\"Battle of Verdun\"",
+        "text": "Battle of Verdun The Battle of Verdun ( ; ), fought from 21 February to 18 December 1916, was the largest and longest battle of the First World War on the Western Front between the German and French armies. The battle took place on the hills north of Verdun-sur-Meuse in north-eastern France. The German 5th Army attacked the defences of the Fortified Region of Verdun (\"\"RFV, Région Fortifiée de Verdun\"\") and those of the French Second Army on the right bank of the Meuse. Inspired by the experience of the Second Battle of Champagne in 1915, the Germans planned to",
+        "score": 80.4794692993164,
+        "evaluation": "The context directly mentions that the battle took place on the hills north of Verdun-sur-Meuse in north-eastern France, which confirms that the battle of Verdun is located in Verdun.",
+        "type": "g"
+      }
+    ],
+    "answer": "Verdun",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "North-Eastern France"
+  },
+  {
+    "question": "what movies did chris farley do?",
+    "answers": [
+      "Coneheads",
+      "Wayne's World",
+      "Black Sheep",
+      "Beverly Hills Ninja",
+      "Wayne's World 2",
+      "Billy Madison",
+      "Dirty Work",
+      "Almost Heroes",
+      "Airheads",
+      "Tommy Boy"
+    ],
+    "ctxs": [
+      {
+        "id": 1283891,
+        "title": "\"Chris Farley\"",
+        "text": "Chris Farley Christopher Crosby Farley (February 15, 1964 – December 18, 1997) was an American actor and comedian. Farley was known for his loud, energetic comedic style, and was a member of Chicago's Second City Theatre and later a cast member of the NBC sketch comedy show \"\"Saturday Night Live\"\" between 1990 and 1995. He then went on to pursue a film career, starring in films such as \"\"Tommy Boy\"\", \"\"Black Sheep\"\" and \"\"Beverly Hills Ninja\"\". Farley died of a drug overdose at the age of 33. Farley was born on February 15, 1964, in Madison, Wisconsin and grew up",
+        "score": 83.49966430664062,
+        "evaluation": "The context does not mention 'Coneheads' as one of the movies Chris Farley starred in. It lists other movies such as 'Tommy Boy', 'Black Sheep', and 'Beverly Hills Ninja', but 'Coneheads' is not included.",
+        "type": "n"
+      },
+      {
+        "id": 18806701,
+        "title": "\"I Am Chris Farley\"",
+        "text": "Farley \"\"probably would have been embarrassed and a bit shy about the whole thing. But he would have loved the attention. He would have smiled and laughed. And sometimes that’s enough.\"\" Film critic Kyle Anderson of \"\"Entertainment Weekly\"\" gave it a B+, calling it \"\"skillfully helmed\"\" by directors Brent Hodge and Derik Murray. I Am Chris Farley I Am Chris Farley is a 2015 documentary film based on the life of comedian and actor Chris Farley, co-directed by Brent Hodge of Hodgee Films and Derik Murray, who was also a producer, of Network Entertainment. The production features interviews with numerous",
+        "score": 80.19659423828125,
+        "evaluation": "The context does not mention 'Coneheads' or any of Chris Farley's movie roles. It primarily discusses a documentary about Chris Farley's life and a quote about how he might have reacted to attention.",
+        "type": "n"
+      },
+      {
+        "id": 18806699,
+        "title": "\"I Am Chris Farley\"",
+        "text": "I Am Chris Farley I Am Chris Farley is a 2015 documentary film based on the life of comedian and actor Chris Farley, co-directed by Brent Hodge of Hodgee Films and Derik Murray, who was also a producer, of Network Entertainment. The production features interviews with numerous actors, comedians and others who worked with Farley during his career. A documentary on the life of comedian Chris Farley. The film follows the growth of Farley's career from his first production at a summer camp in Wisconsin to the movies. The film focused on the importance of The Second City and Saturday",
+        "score": 79.61564636230469,
+        "evaluation": "The context does not mention 'Coneheads' or any specific movies that Chris Farley appeared in. It only provides information about a documentary on Chris Farley's life and career.",
+        "type": "n"
+      }
+    ],
+    "answer": "Tommy Boy",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Tommy Boy",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what timezone is reno nv?",
+    "answers": [
+      "Pacific Time Zone"
+    ],
+    "ctxs": [
+      {
+        "id": 13318641,
+        "title": "\"Mutoh Europe nv\"",
+        "text": "Mutoh Europe nv Mutoh Europe nv is a business unit of Mutoh Holdings Co. Ltd. “wide format printers for productive people” Mutoh Europe nv are a fully owned subsidiary of Mutoh Industries Co. Ltd, Tokyo, Japan (TYO: 7999 “MUTOH”). Founded in 1991, the company’s activities encompass sales, warehousing and logistics, technical and commercial marketing, training, product support and after-sales service of Mutoh hardware (professional sign cutting plotters and large-format full-colour piezo printers for commercial inkjet printing, sign & display, specialty/industrial, digital transfer & direct textile applications). Mutoh products are distributed via a wide network of authorised Mutoh resellers in the",
+        "score": 72.42578887939453,
+        "evaluation": "The provided context does not contain any information about the timezone of Reno, NV. It is focused on the business activities and details of Mutoh Europe nv, which is unrelated to the question.",
+        "type": "n"
+      },
+      {
+        "id": 13318639,
+        "title": "\"Mutoh Europe nv\"",
+        "text": "Mutoh Europe nv Mutoh Europe nv is a business unit of Mutoh Holdings Co. Ltd. “wide format printers for productive people” Mutoh Europe nv are a fully owned subsidiary of Mutoh Industries Co. Ltd, Tokyo, Japan (TYO: 7999 “MUTOH”). Founded in 1991, the company’s activities encompass sales, warehousing and logistics, technical and commercial marketing, training, product support and after-sales service of Mutoh hardware (professional sign cutting plotters and large-format full-colour piezo printers for commercial inkjet printing, sign & display, specialty/industrial, digital transfer & direct textile applications). Mutoh products are distributed via a wide network of authorised Mutoh resellers in the",
+        "score": 72.42578887939453,
+        "evaluation": "The provided context does not contain any information about the timezone of Reno, NV. It is focused on the business activities and details of Mutoh Europe nv, which is unrelated to the question.",
+        "type": "n"
+      },
+      {
+        "id": 20376944,
+        "title": "\"KVNV (FM)\"",
+        "text": "KVNV (FM) KVNV (89.1 FM, \"\"NV-89\"\") is a non-commercial radio station near Reno, Nevada. It broadcasts an adult album alternative format with some syndicated programming from Nevada Public Radio and National Public Radio and artists from Nevada and surrounding states are often featured. KVNV began broadcasting under the callsign KXNV, branded as \"\"Radio Free Reno\"\" and was owned by Open Sky Media. In 2015 its callsign was changed to KJIV and it was rebranded as \"\"The Fine 89\"\". KVNV was acquired by Nevada Public Radio for $550,000 in November 2016; the purchase was consummated on February 17, 2017. \"\"The Fine",
+        "score": 71.67643737792969,
+        "evaluation": "The context provided does not contain or directly imply information about the time zone of Reno, NV. It primarily discusses the history and details of a radio station in the area.",
+        "type": "n"
+      }
+    ],
+    "answer": "Pacific Time Zone",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Pacific Time Zone",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what currency does greece use 2012?",
+    "answers": [
+      "Euro"
+    ],
+    "ctxs": [
+      {
+        "id": 4377239,
+        "title": "\"Para (currency)\"",
+        "text": "Para (currency) The para (Cyrillic: пара, from Turkish \"\"para\"\", from Persian \"\"pārah\"\", \"\"piece\"\" ) was a former currency of the Ottoman Empire, Turkey, Montenegro, Albania and Yugoslavia and is the current subunit, although rarely used, of the Serbian dinar. As a former Ottoman and Turkish currency, it was 1/40 of a \"\"kuruş\"\", which was, in turn, 1/100 of a Turkish lira. It was also earlier 3 \"\"akçe\"\" The modern Turkish lira is only divided into \"\"kuruş\"\". In Serbia, the \"\"para\"\" has been the subunit of the dinar since the 19th century. The Montenegrin perper was subdivided into 100 \"\"pare\"\" during",
+        "score": 83.86080932617188,
+        "evaluation": "The context provided does not contain or directly imply that Greece uses the Euro as its currency in 2012. The context primarily discusses the para, a subunit of several historical and current currencies in different countries, but does not mention Greece or the Euro.",
+        "type": "n"
+      },
+      {
+        "id": 155071,
+        "title": "\"Economy of Greece\"",
+        "text": "Sea Economic Cooperation (BSEC). The country joined what is now the European Union in 1981. In 2001 Greece adopted the euro as its currency, replacing the Greek drachma at an exchange rate of 340.75 drachmae per euro. Greece is a member of the International Monetary Fund and of the World Trade Organization, and ranked 34th on Ernst & Young's Globalization Index 2011. World War II (1939-1945) devastated the country's economy, but the high levels of economic growth that followed from 1950 to 1980 have been called the Greek economic miracle. From 2000 Greece saw high levels of GDP growth above",
+        "score": 83.84487915039062,
+        "evaluation": "The context states that 'In 2001 Greece adopted the euro as its currency,' which directly implies that Greece was using the Euro in 2012.",
+        "type": "g"
+      },
+      {
+        "id": 13866662,
+        "title": "\"Sahrawi peseta\"",
+        "text": "Sahrawi peseta The Sahrawi peseta (, ) is the currency of the partially recognized Sahrawi Arab Democratic Republic. It is divided in 100 céntimos, although coins with this denomination have never been minted, nor have banknotes been printed. The official international currency code is EHP. The first Sahrawi pesetas were minted in 1990, but they were not adopted as the national coin of Western Sahara until 1997. As this territory is mostly controlled by Morocco, the circulating currency in that part of the country is the Moroccan dirham, with Algerian dinars and Mauritanian ouguiyas circulating alongside the Sahrawi peseta in",
+        "score": 83.62319946289062,
+        "evaluation": "The context provided does not contain or imply any information about the currency used in Greece in 2012. It only discusses the Sahrawi peseta, which is irrelevant to the question.",
+        "type": "n"
+      }
+    ],
+    "answer": "Euro",
+    "type": "kg",
+    "em": 5.0,
+    "ctx_answer": "Euro",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what kind of money do the netherlands use?",
+    "answers": [
+      "Euro"
+    ],
+    "ctxs": [
+      {
+        "id": 282681,
+        "title": "\"Economy of the Netherlands Antilles\"",
+        "text": "partners: US 32%, Panama 10.1%, Guatemala 7,9%, Haiti 6,4%, The Bahamas 5,1% (2005) Imports: $4 383 billion (c.i.f., 2004) Imports - commodities: crude petroleum, food, manufactures Imports - partners: Venezuela 50%, US 22,2%, Italy 5.2%, Netherlands 5% (2005) Debt - external: $2 680 million (2004) Economic aid - recipient: IMF provided $61 million in 2000, and the Netherlands continued its support with $40 million (2004) Currency: 1 Netherlands Antillean guilder, gulden, or florin (NAf.) = 100 cents Exchange rates: Netherlands Antillean guilders, gulden, or florins (NAf.) per US$1 – 1.790 (fixed rate since 1989) Fiscal year: calendar year Economy of",
+        "score": 86.625732421875,
+        "evaluation": "The context provided does not mention that the Netherlands uses the Euro. Instead, it discusses the Netherlands Antillean guilder, which is not the currency of the Netherlands but of the former Netherlands Antilles. The context does not provide information about the currency used in the Netherlands.",
+        "type": "n"
+      },
+      {
+        "id": 6367491,
+        "title": "\"Dutch guilder\"",
+        "text": "Dutch guilder The Dutch guilder (, ) or fl. was the currency of the Netherlands from the 17th century until 2002, when it was replaced by the euro. Between 1999 and 2002, the guilder was officially a \"\"national subunit\"\" of the euro. However, physical payments could only be made in guilder, as no euro coins or banknotes were available. The Netherlands Antillean guilder is still in use in Curaçao and Sint Maarten (two countries in the Kingdom of the Netherlands), but this currency is distinct from the Dutch guilder. In 2004, the Surinamese guilder was replaced by the Surinamese dollar.",
+        "score": 84.84669494628906,
+        "evaluation": "The context states that the Dutch guilder was replaced by the euro in 2002, which directly implies that the current currency used in the Netherlands is the Euro.",
+        "type": "g"
+      },
+      {
+        "id": 6367788,
+        "title": "\"Netherlands Antillean guilder\"",
+        "text": "1971. In 1986, Aruba gained a \"\"status aparte\"\" and thereby left the Netherlands Antilles. Shortly after that, Aruba began to issue its own currency, the Aruban florin, which replaced the Netherlands Antillean guilder at par. In 2011, a year after the dissolution of the Netherlands Antilles, Bonaire, Saba and Sint Eustatius switched to the US dollar. Curaçao and Sint Maarten intended to replace the currency, thus ceased production of the currency, but as of still use the Antillean guilder. However since 2018 banknotes and coins now require replacement and there are only two years of the Antilles guilder physical currency",
+        "score": 83.46918487548828,
+        "evaluation": "The context provided does not contain or directly imply that the Netherlands uses the Euro. The text discusses the currency changes in Aruba, Bonaire, Saba, Sint Eustatius, Curaçao, and Sint Maarten, but does not mention the currency used in the Netherlands.",
+        "type": "n"
+      }
+    ],
+    "answer": "Euro",
+    "type": "kg",
+    "em": 3.0,
+    "ctx_answer": "Euro",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what position did john stockton play?",
+    "answers": [
+      "Point guard"
+    ],
+    "ctxs": [
+      {
+        "id": 2015524,
+        "title": "\"John Stockton\"",
+        "text": "State University's women's basketball program as an assistant coach to replace Kellee Barney. Barney left the program to pursue a career in business, and Stockton had previously coached four of the players on the MSU women's team during Amateur Athletic Union leagues. John Stockton John Houston Stockton (born March 26, 1962) is an American retired professional basketball player. He spent his entire professional playing career as a point guard for the Utah Jazz of the National Basketball Association (NBA), from 1984 to 2003. Stockton is regarded as one of the best point guards of all time, holding the NBA records",
+        "score": 86.93575286865234,
+        "evaluation": "The context directly states that John Stockton played as a point guard for the Utah Jazz of the NBA, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 2015524,
+        "title": "\"John Stockton\"",
+        "text": "State University's women's basketball program as an assistant coach to replace Kellee Barney. Barney left the program to pursue a career in business, and Stockton had previously coached four of the players on the MSU women's team during Amateur Athletic Union leagues. John Stockton John Houston Stockton (born March 26, 1962) is an American retired professional basketball player. He spent his entire professional playing career as a point guard for the Utah Jazz of the National Basketball Association (NBA), from 1984 to 2003. Stockton is regarded as one of the best point guards of all time, holding the NBA records",
+        "score": 86.93575286865234,
+        "evaluation": "The context directly states that John Stockton played as a point guard for the Utah Jazz of the NBA, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 2015501,
+        "title": "\"John Stockton\"",
+        "text": "John Stockton John Houston Stockton (born March 26, 1962) is an American retired professional basketball player. He spent his entire professional playing career as a point guard for the Utah Jazz of the National Basketball Association (NBA), from 1984 to 2003. Stockton is regarded as one of the best point guards of all time, holding the NBA records for most career assists and steals by considerable margins. He is a ten-time NBA All-Star, and a two-time Naismith Memorial Basketball Hall of Fame inductee (in 2009 for his individual career, and in 2010 as a member of the 1992 United States",
+        "score": 85.73304748535156,
+        "evaluation": "The context explicitly states that John Stockton played as a point guard for the Utah Jazz of the NBA, which directly answers the question.",
+        "type": "g"
+      }
+    ],
+    "answer": "point guard",
+    "type": "kg",
+    "em": 4.0,
+    "ctx_answer": "Point Guard",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the official currency in france?",
+    "answers": [
+      "CFP franc",
+      "Euro"
+    ],
+    "ctxs": [
+      {
+        "id": 2573202,
+        "title": "\"French franc\"",
+        "text": "for 10 years from date of withdrawal. As the last banknote from the previous series had been withdrawn on 31 March 1998 (200 francs, Montesquieu), the deadline for the exchange was 31 March 2008. Along with the Spanish peseta, the French franc was also a \"\"de facto\"\" currency used in Andorra (which had no national currency with legal tender). It circulated alongside the Monegasque franc, as it did in Monaco, with which it had equal value. These currencies were all replaced by the euro in 2002. French franc The franc (; ; sign: F or Fr), also commonly distinguished as",
+        "score": 85.56010437011719,
+        "evaluation": "The context does not mention the CFP franc as the official currency of France. Instead, it discusses the French franc and its replacement by the euro in 2002. The CFP franc is not mentioned in the context.",
+        "type": "n"
+      },
+      {
+        "id": 13039389,
+        "title": "\"International status and usage of the euro\"",
+        "text": "pegged to the French franc. Between 2010 and 2012, new agreements between the EU and Monaco, San Marino and the Vatican City came into force. A similar agreement was negotiated with Andorra and came into force on 1 April 2012. Andorra did not previously have an official currency. Prior to 2002, it used both the French franc and Spanish peseta as \"\"de facto\"\" legal tender currencies, though they never had an official monetary arrangement with either country, and switched to the euro (without any monetary agreement) when it was introduced on 1 January 2002. After years of negotiations, partially over",
+        "score": 85.01710510253906,
+        "evaluation": "The context does not mention the CFP franc or indicate that it is the official currency of France. The context discusses the use of the French franc and the euro in Andorra, but does not provide information about the official currency of France.",
+        "type": "n"
+      },
+      {
+        "id": 1507216,
+        "title": "\"Reserve currency\"",
+        "text": "the undisputed reserve currency of the world allows the United States to impose unilateral sanctions against actions performed between other countries, for example the American fine against BNP Paribas for violations of U.S. sanctions that were not laws of France or the other countries involved in the transactions. In 2014 Beijing and Moscow signed a 150 billion yuan central bank liquidity swap line agreement to get around American sanctions on their behaviors. The euro is currently the second most commonly held reserve currency, comprising about a quarter of allocated holdings. After World War II and the rebuilding of the German",
+        "score": 84.77396392822266,
+        "evaluation": "The context does not mention the official currency of France, nor does it contain or imply information about the CFP franc. The text primarily discusses the U.S. dollar as a reserve currency, U.S. sanctions, and the euro as a reserve currency, but does not provide information relevant to the question about the official currency of France.",
+        "type": "n"
+      }
+    ],
+    "answer": "Euro",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Euro",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "who played carl fredricksen in up?",
+    "answers": [
+      "Ed Asner"
+    ],
+    "ctxs": [
+      {
+        "id": 10367859,
+        "title": "\"Up (2009 film)\"",
+        "text": "Up (2009 film) Up is a 2009 American 3D computer-animated comedy-drama buddy adventure film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film centers on an elderly widower named Carl Fredricksen (Ed Asner) and an earnest boy named Russell (Jordan Nagai). By tying thousands of balloons to his house, Carl sets out to fulfill his dream to see the wilds of South America and complete a promise made to his late wife, Ellie. The film was directed by Pete Docter and co-directed by Bob Peterson, who also wrote the film's screenplay, as well as the story",
+        "score": 85.40918731689453,
+        "evaluation": "The context explicitly states that Carl Fredricksen was voiced by Ed Asner, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 10367905,
+        "title": "\"Up (2009 film)\"",
+        "text": "Pixar's films: \"\"Up\"\", \"\"The Incredibles\"\", \"\"Cars\"\", \"\"Ratatouille\"\", and \"\"Toy Story\"\". Up (2009 film) Up is a 2009 American 3D computer-animated comedy-drama buddy adventure film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film centers on an elderly widower named Carl Fredricksen (Ed Asner) and an earnest boy named Russell (Jordan Nagai). By tying thousands of balloons to his house, Carl sets out to fulfill his dream to see the wilds of South America and complete a promise made to his late wife, Ellie. The film was directed by Pete Docter and co-directed by Bob Peterson, who",
+        "score": 82.99688720703125,
+        "evaluation": "The context directly states that Carl Fredricksen was voiced by Ed Asner in the film 'Up'.",
+        "type": "g"
+      },
+      {
+        "id": 13634745,
+        "title": "\"Up in the Air (2009 film)\"",
+        "text": "Up in the Air (2009 film) Up in the Air is a 2009 American comedy-drama film directed by Jason Reitman and written by Reitman and Sheldon Turner, based on the 2001 novel of the same name, written by Walter Kirn. The story is centered on corporate \"\"downsizer\"\" Ryan Bingham (George Clooney) and his travels. Vera Farmiga, Anna Kendrick and Danny McBride also star. Filming was primarily in St. Louis, Missouri, which substituted for a number of other cities. Several scenes were filmed in Detroit, Omaha, Las Vegas and Miami. Reitman promoted \"\"Up in the Air\"\" with personal appearances at film",
+        "score": 79.5058822631836,
+        "evaluation": "The context provided is about the film 'Up in the Air' and does not mention 'Up' or any of its voice actors, including Ed Asner who played Carl Fredricksen. The context does not contain or imply the correct answer.",
+        "type": "n"
+      }
+    ],
+    "answer": "Ed Asner",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Ed Asner",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what book did jacob riis wrote?",
+    "answers": [
+      "How the other half lives"
+    ],
+    "ctxs": [
+      {
+        "id": 801596,
+        "title": "\"Jacob Riis\"",
+        "text": "with lantern slides, made little money for the pair, but they both greatly increased the number of people exposed to what Riis had to say and also enabled him to meet people who had the power to affect change, notably Charles Henry Parkhurst and an editor of \"\"Scribner's Magazine\"\", who invited him to submit an illustrated article. An eighteen-page article by Riis, \"\"How the Other Half Lives\"\", appeared in the Christmas 1889 edition of \"\"Scribner's Magazine\"\". It included nineteen of his photographs rendered as line drawings. Its publication brought an invitation to expand the material into an entire book. Riis,",
+        "score": 81.17816162109375,
+        "evaluation": "The context mentions that an eighteen-page article by Riis, titled 'How the Other Half Lives', appeared in the Christmas 1889 edition of 'Scribner's Magazine'. It also states that the publication of this article led to an invitation to expand the material into an entire book. This directly implies that Jacob Riis wrote the book 'How the Other Half Lives'.",
+        "type": "g"
+      },
+      {
+        "id": 801596,
+        "title": "\"Jacob Riis\"",
+        "text": "with lantern slides, made little money for the pair, but they both greatly increased the number of people exposed to what Riis had to say and also enabled him to meet people who had the power to affect change, notably Charles Henry Parkhurst and an editor of \"\"Scribner's Magazine\"\", who invited him to submit an illustrated article. An eighteen-page article by Riis, \"\"How the Other Half Lives\"\", appeared in the Christmas 1889 edition of \"\"Scribner's Magazine\"\". It included nineteen of his photographs rendered as line drawings. Its publication brought an invitation to expand the material into an entire book. Riis,",
+        "score": 81.17816162109375,
+        "evaluation": "The context mentions that an eighteen-page article by Riis, titled 'How the Other Half Lives', appeared in the Christmas 1889 edition of 'Scribner's Magazine'. It also states that the publication of this article led to an invitation to expand the material into an entire book. This directly implies that Jacob Riis wrote the book 'How the Other Half Lives'.",
+        "type": "g"
+      },
+      {
+        "id": 801614,
+        "title": "\"Jacob Riis\"",
+        "text": "also criticized for his depiction of African Americans. He was said to portray them as falsely happy with their lives in the \"\"slums\"\" of New York City. This criticism didn't come until much later after Riis had died. His writing was overlooked because his photography was so revolutionary in his early books. Riis is honored together with Walter Rauschenbusch and Washington Gladden with a feast day on the liturgical calendar of the Episcopal Church (USA) on July 2. Jacob Riis Jacob August Riis (; May 3, 1849 – May 26, 1914) was a Danish-American social reformer, \"\"muckraking\"\" journalist and social",
+        "score": 76.26727294921875,
+        "evaluation": "The context provided does not mention the book 'How the other half lives' or any of Jacob Riis's works. It primarily discusses his portrayal of African Americans, his photography, and his recognition in the Episcopal Church, but does not include information about the specific book he wrote.",
+        "type": "n"
+      }
+    ],
+    "answer": "How the Other Half Lives",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "How the Other Half Lives",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the name of the money used in spain?",
+    "answers": [
+      "Euro"
+    ],
+    "ctxs": [
+      {
+        "id": 381658,
+        "title": "\"Politics of Spain\"",
+        "text": "energy sector, national telecommunications and television broadcasting networks. To ensure a successful outcome of such liberalization, the government set up the Competition Defense Court (), an anti-trust regulator body entrusted with restricting monopolistic practices. During Aznar's government Spain qualified for the Economic and Monetary Union of the European Union, and adopted the euro, replacing the peseta, in 2002. Spain participated, along with the United States and other NATO allies, in military operations in the former Yugoslavia. Spanish armed forces and police personnel were included in the international peacekeeping forces in Bosnia and Herzegovina and Kosovo. Having obtained an absolute majority",
+        "score": 85.33306121826172,
+        "evaluation": "The context directly states that Spain adopted the euro, replacing the peseta, in 2002, which confirms that the Euro is the name of the money used in Spain.",
+        "type": "g"
+      },
+      {
+        "id": 1387140,
+        "title": "\"Spanish peseta\"",
+        "text": "I) caused the monetary union to break up, although it was not until 1927 that it officially ended. In 1959, Spain became part of the Bretton Woods System, pegging the peseta at a value of 60 pesetas = 1 U.S. dollar. In 1967, the peseta followed the devaluation of the British pound, maintaining the exchange rate of 168 pesetas = 1 pound and establishing a new rate of 70 pesetas = 1 U.S. dollar. The peseta was replaced by the euro in 2002, following the establishment of the euro in 1999. The exchange rate was 1 euro = 166.386 pesetas.",
+        "score": 83.634033203125,
+        "evaluation": "The context directly states that the peseta was replaced by the euro in 2002, which confirms that the Euro is the name of the money used in Spain.",
+        "type": "g"
+      },
+      {
+        "id": 1387156,
+        "title": "\"Spanish peseta\"",
+        "text": "December 2020. According to that entity, as of March 2011 pesetas to a value estimated at 1.7 billion euros had not been converted to euro. Spanish peseta The peseta (, ) was the currency of Spain between 1868 and 2002. Along with the French franc, it was also a \"\"de facto\"\" currency used in Andorra (which had no national currency with legal tender). The name of the currency comes from \"\"pesseta\"\", the diminutive form of the word \"\"peça\"\", which is a Catalan word that means piece or fraction. The first non-official coins which contained the word \"\"peseta\"\" were made in",
+        "score": 82.85159301757812,
+        "evaluation": "The context mentions that the peseta was the currency of Spain between 1868 and 2002, and it also mentions the conversion of pesetas to euros. This directly implies that the current currency used in Spain is the Euro.",
+        "type": "g"
+      }
+    ],
+    "answer": "Euro",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Peseta"
+  },
+  {
+    "question": "who played giles on buffy the vampire slayer?",
+    "answers": [
+      "Anthony Stewart Head"
+    ],
+    "ctxs": [
+      {
+        "id": 1691761,
+        "title": "\"Nicholas Brendon\"",
+        "text": "Nicholas Brendon Nicholas Brendon (born Nicholas Brendon Schultz; April 12, 1971) is an American actor and writer. He is best known for playing Xander Harris in the television series \"\"Buffy the Vampire Slayer\"\" (1997–2003) and Kevin Lynch in \"\"Criminal Minds\"\" (2007–2014). Since 2014 he has been writing on the \"\"Buffy Season 10\"\" comic book. Nicholas Brendon was born Nicholas Brendon Schultz on April 12, 1971, in Los Angeles, three minutes after his identical twin brother, Kelly Donovan. As a child, he aspired to become a professional baseball player, but he \"\"lost the passion for it\"\" at 20. Instead, he decided",
+        "score": 86.08528137207031,
+        "evaluation": "The context provided does not contain or directly imply the correct answer. The context discusses Nicholas Brendon, who played Xander Harris in 'Buffy the Vampire Slayer,' but does not mention Anthony Stewart Head, who played Giles.",
+        "type": "n"
+      },
+      {
+        "id": 12784176,
+        "title": "\"Bargaining (Buffy the Vampire Slayer)\"",
+        "text": "Bargaining (Buffy the Vampire Slayer) \"\"Bargaining\"\" is the two-part season premiere of the sixth season of the television series \"\"Buffy the Vampire Slayer\"\", consisting of the first and second episodes. They are also the 101st and 102nd episodes of the show overall. The two constituent episodes were both aired on October 2, 2001 on UPN. The episodes were written by Marti Noxon and David Fury and directed by David Grossman. The Scooby Gang resurrect Buffy Summers (Sarah Michelle Gellar), after her death in the previous episode. Rupert Giles (Anthony Stewart Head) returns to England, and a group of biker demons",
+        "score": 84.56160736083984,
+        "evaluation": "The context directly mentions that Rupert Giles is played by Anthony Stewart Head, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 12784176,
+        "title": "\"Bargaining (Buffy the Vampire Slayer)\"",
+        "text": "Bargaining (Buffy the Vampire Slayer) \"\"Bargaining\"\" is the two-part season premiere of the sixth season of the television series \"\"Buffy the Vampire Slayer\"\", consisting of the first and second episodes. They are also the 101st and 102nd episodes of the show overall. The two constituent episodes were both aired on October 2, 2001 on UPN. The episodes were written by Marti Noxon and David Fury and directed by David Grossman. The Scooby Gang resurrect Buffy Summers (Sarah Michelle Gellar), after her death in the previous episode. Rupert Giles (Anthony Stewart Head) returns to England, and a group of biker demons",
+        "score": 84.56160736083984,
+        "evaluation": "The context directly mentions that Rupert Giles is played by Anthony Stewart Head, which matches the correct answer.",
+        "type": "g"
+      }
+    ],
+    "answer": "Anthony Stewart Head",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Anthony Stewart Head",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what currency should i bring to italy?",
+    "answers": [
+      "Euro"
+    ],
+    "ctxs": [
+      {
+        "id": 3761909,
+        "title": "\"Italian lira\"",
+        "text": "by the euro. The lira was the official unit of currency in Italy until January 1, 1999, when it was replaced by the euro (euro coins and notes were not introduced until 2002). Old lira denominated currency ceased to be legal tender on February 28, 2002. The conversion rate is 1,936.27 lire to the euro. All lira banknotes in use immediately before the introduction of the euro, and all post-World War II coins, were exchanged by the Bank of Italy up to 6 December 2011. Originally, Italy's central bank pledged to redeem Italian coins and banknotes until 29 February 2012,",
+        "score": 80.63946533203125,
+        "evaluation": "The context directly states that the euro replaced the lira as the official unit of currency in Italy, and that the lira ceased to be legal tender on February 28, 2002. This implies that the euro is the currency to bring to Italy.",
+        "type": "g"
+      },
+      {
+        "id": 14263340,
+        "title": "\"History of coins in Italy\"",
+        "text": "2002. The euro coinage system entered circulation in Italy in 2002 and is currently the official currency. Upon the creation of the Kingdom of Italy under Vittorio Emanuele II (1861), a unified lira was established, at 4.5 grams of silver or 290.322 milligrams of gold. This was a direct continuation of the Sardinian lira. Other currencies replaced by the Italian lira included the Lombardy-Venetia pound, the Two Sicilies piastra, the Tuscan fiorino, the Papal States scudo and the Parman lira. In 1865, Italy formed part of the Latin Monetary Union in which the lira was set as equal to, among",
+        "score": 80.5697250366211,
+        "evaluation": "The context states that the euro coinage system entered circulation in Italy in 2002 and is currently the official currency, which directly implies that the Euro is the currency to bring to Italy.",
+        "type": "g"
+      },
+      {
+        "id": 3761924,
+        "title": "\"Italian lira\"",
+        "text": "a referendum bid, to restore the lira in Italy. Italian lira The lira (; plural lire ) was the currency of Italy between 1861 and 2002 and of the Albanian Kingdom between 1941 and 1943. Between 1999 and 2002, the Italian lira was officially a national subunit of the euro. However, cash payments could be made in lira only, as euro coins or notes were not yet available. The lira was also the currency of the Napoleonic Kingdom of Italy between 1807 and 1814. The term originates from the value of a pound weight () of high purity silver and",
+        "score": 79.48985290527344,
+        "evaluation": "The context implies that the Euro is the current currency in Italy, as it mentions that the lira was used until 2002 and that the euro replaced it. The reference to a referendum to restore the lira further suggests that the euro is the current currency.",
+        "type": "g"
+      }
+    ],
+    "answer": "Euro",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Euro",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "who helped form the american federation of labor?",
+    "answers": [
+      "Samuel Gompers"
+    ],
+    "ctxs": [
+      {
+        "id": 2234536,
+        "title": "\"American Federation of Labor\"",
+        "text": "American Federation of Labor The American Federation of Labor (A.F. of L.) was a national federation of labor unions in the United States founded in Columbus, Ohio, in December 1886 by an alliance of craft unions disaffected from the Knights of Labor, a national labor union. Samuel Gompers of the Cigar Makers' International Union was elected president at its founding convention and reelected every year, except one, until his death in 1924. The A.F. of L was the largest union grouping in the United States for the first half of the 20th century, even after the creation of the Congress",
+        "score": 83.97552490234375,
+        "evaluation": "The context directly states that Samuel Gompers of the Cigar Makers' International Union was elected president at the founding convention of the American Federation of Labor, implying his significant role in forming the organization.",
+        "type": "g"
+      },
+      {
+        "id": 2234536,
+        "title": "\"American Federation of Labor\"",
+        "text": "American Federation of Labor The American Federation of Labor (A.F. of L.) was a national federation of labor unions in the United States founded in Columbus, Ohio, in December 1886 by an alliance of craft unions disaffected from the Knights of Labor, a national labor union. Samuel Gompers of the Cigar Makers' International Union was elected president at its founding convention and reelected every year, except one, until his death in 1924. The A.F. of L was the largest union grouping in the United States for the first half of the 20th century, even after the creation of the Congress",
+        "score": 83.97552490234375,
+        "evaluation": "The context directly states that Samuel Gompers of the Cigar Makers' International Union was elected president at the founding convention of the American Federation of Labor, implying his significant role in forming the organization.",
+        "type": "g"
+      },
+      {
+        "id": 2234579,
+        "title": "\"American Federation of Labor\"",
+        "text": "in some areas. In San Francisco, the local Building Trades Council, led by Carpenters official P. H. McCarthy, not only dominated the local labor council but helped elect McCarthy mayor of San Francisco in 1909. In a very few cases early in the A.F. of L.'s history, state and local bodies defied A.F. of L. policy or chose to disaffiliate over policy disputes. Though Gompers had contact with socialists and such as A.F. of L. co-founder Peter J. McGuire, the A.F. of L. adopted a philosophy of \"\"business unionism\"\" that emphasized unions' contribution to businesses' profits and national economic growth.",
+        "score": 81.37672424316406,
+        "evaluation": "The context mentions that Samuel Gompers had contact with socialists and co-founder Peter J. McGuire, and it refers to Gompers as a key figure in the A.F. of L. This implies that Gompers was one of the key individuals who helped form the American Federation of Labor.",
+        "type": "g"
+      }
+    ],
+    "answer": "Samuel Gompers",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Craft unions"
+  },
+  {
+    "question": "what currency do you use in costa rica?",
+    "answers": [
+      "Costa Rican colón"
+    ],
+    "ctxs": [
+      {
+        "id": 4403340,
+        "title": "\"Cayman Islands dollar\"",
+        "text": "Cayman Islands dollar The Cayman Islands Dollar (currency code \"\"KYD\"\") is the currency of the Cayman Islands. It is abbreviated with the dollar sign \"\"$\"\", or alternatively \"\"CI$\"\" to distinguish it from other dollar-denominated currencies. It is subdivided into 100 cents. It is the 9th-highest-valued currency unit in the world, . The Cayman Islands dollar was introduced in 1972 ( 10 years after separation from Colony of Jamaica ), replacing the Jamaican dollar at par. Jamaican currency and Cayman Islands dollars both remained legal tender until 1 August 1972, when Jamaican currency ceased to be legal tender. The Cayman Islands",
+        "score": 87.01651763916016,
+        "evaluation": "The context provided is about the Cayman Islands dollar and does not contain any information about the currency used in Costa Rica, which is the Costa Rican colón.",
+        "type": "n"
+      },
+      {
+        "id": 1701666,
+        "title": "\"Currency substitution\"",
+        "text": "political and historical factors. In all long-standing currency substitution cases, historical and political reasons have been more influential than an evaluation of the economic effects of currency substitution. Panama adopted the US dollar as legal tender after independence as the result of a constitutional ruling. Ecuador and El Salvador became fully dollarized economies in 2000 and 2001 respectively, for different reasons. Ecuador underwent currency substitution to deal with a widespread political and financial crisis resulting from massive loss of confidence in its political and monetary institutions. By contrast, El Salvador's official currency substitution was a result of internal debates and",
+        "score": 86.97288513183594,
+        "evaluation": "The context provided does not contain or directly imply the correct answer, which is the Costa Rican colón. The context discusses currency substitution in Panama, Ecuador, and El Salvador, but does not mention Costa Rica or its currency.",
+        "type": "n"
+      },
+      {
+        "id": 14350413,
+        "title": "\"Postage stamps and postal history of Costa Rica\"",
+        "text": "change in currency from \"\"Reales\"\" to the new Pesos and \"\"Centavos\"\", the issue of 1863 was surcharged with new values for postal use: 1 Centavos, 2 Centavos, 5 Centavos (all over the Medio Real stamp), 10 Centavos (over Dos Reales) and 20 Centavos (over Cuatro Reales). The 5, 10 and 20 Centavos were also surcharged \"\"U.P.U.\"\" Costa Rican stamps were issued overprinted \"\"Guanacaste\"\" in 1885-89 following war with Nicaragua over the sovereignty of Guanacaste. The first issue in the new \"\"Colón\"\" currency was dated 1900 and put into circulation in 1901. It consists of ten stamps with values ranging from",
+        "score": 86.63040161132812,
+        "evaluation": "The context mentions that the first issue in the new 'Colón' currency was dated 1900 and put into circulation in 1901, which directly implies that the currency used in Costa Rica is the Costa Rican colón.",
+        "type": "g"
+      }
+    ],
+    "answer": "Costa Rican colón",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Colón"
+  },
+  {
+    "question": "which jane austen books are movies?",
+    "answers": [
+      "Pride and Prejudice"
+    ],
+    "ctxs": [
+      {
+        "id": 10347371,
+        "title": "\"Becoming Jane Austen\"",
+        "text": "Becoming Jane Austen Becoming Jane Austen was researched and written by the Jane Austen scholar Jon Hunter Spence. It chronicles a demi-biographical version of Austen's early biography based on Spence's interpretation of the novel \"\"Pride and Prejudice\"\" as possibly being modeled on Austen's real life, although Austen herself does not make this claim for her novel. \"\"Becoming Jane Austen\"\" was first published in hardcover by Hambledon Continuum in 2003. It chronicles the early life of Jane Austen, the encounters and the developing relationship between Austen and Tom Lefroy, based on letters sent by Jane Austen to her sister Cassandra. The",
+        "score": 90.8001708984375,
+        "evaluation": "The context mentions 'Pride and Prejudice' and discusses its adaptation in a demi-biographical version of Austen's early life, which implies that 'Pride and Prejudice' has been adapted into a movie. Therefore, the context supports the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 6346847,
+        "title": "\"Becoming Jane\"",
+        "text": "female viewers who had enjoyed the actress in \"\"The Princess Diaries\"\" and \"\"\"\". According to producers, the view was that this demographic group would have been in their early teens during the release of the \"\"Princess\"\" films, making them \"\"the right age\"\" for Austen as 15-year-olds. Expecting \"\"Becoming Jane\"\" to be a popular film, in February 2007 Penguin Books announced new editions of six of Austen's best-known novels; their redesigned covers were intended to attract teenage readers. \"\"Becoming Jane\"\" has been referred to as a heritage costume drama film, a genre which has been popular in the United States among",
+        "score": 87.90289306640625,
+        "evaluation": "The context does not mention 'Pride and Prejudice' or any specific Jane Austen books that have been made into movies. It only discusses the marketing strategy for a film called 'Becoming Jane' and mentions that Penguin Books released new editions of six of Austen's best-known novels, but it does not specify which ones.",
+        "type": "n"
+      },
+      {
+        "id": 10535525,
+        "title": "\"Reception history of Jane Austen\"",
+        "text": "discourse allowed the reader to understand Emma mind without becoming limited by it. Another major theme of Austen scholarship has concerned the question of the \"\"Bildungsroman\"\" (novel of education). D.D Devlin in \"\"Jane Austen and Education\"\" (1975) argued that Austen's novels were all in varying ways \"\"Bildungsroman\"\", where Austen put into practice Enlightenment theories about how the character of young people can develop and change. The Italian literary critic Franco Moretti in his 1987 book \"\"The Way of the World\"\" called \"\"Pride and Prejudice\"\" a \"\"classic\"\" \"\"Bildungsroman\"\", where Elizabeth Bennet's \"\"prejudice\"\" against Mr. Darcy is really \"\"distrust\"\" and that \"\"she",
+        "score": 87.64236450195312,
+        "evaluation": "The context mentions 'Pride and Prejudice' and refers to it as a 'classic' 'Bildungsroman', which directly implies that it is one of Jane Austen's works. While the context does not explicitly state that 'Pride and Prejudice' has been made into a movie, the question asks if the context contains or directly implies the correct answer, and 'Pride and Prejudice' is indeed one of Jane Austen's books that has been adapted into a movie.",
+        "type": "g"
+      }
+    ],
+    "answer": "Pride and Prejudice",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Pride and Prejudice",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "where is lanzarote in a world map?",
+    "answers": [
+      "Canary Islands"
+    ],
+    "ctxs": [
+      {
+        "id": 7335061,
+        "title": "\"UD Lanzarote\"",
+        "text": "UD Lanzarote Unión Deportiva Lanzarote is a Spanish football team based in Arrecife, Lanzarote, in the autonomous community of Canary Islands. Founded in 1970 it plays in Tercera División – Group 12, holding home games at the \"\"Ciudad Deportiva de Lanzarote\"\" (sports city), a 6,000-seat stadium which is shared with CD Orientación Marítima. \"\"Unión Deportiva Lanzarote\"\" was formed in August 1970, in views to a representation outside of the island. In its beginnings the team played on \"\"picón\"\" (volcanic granules), eventually moving on to FIFA-approved artificial grass. In its first competitive season, 1970–71, the team won the \"\"Segunda Regional Insular\"\"",
+        "score": 85.07199096679688,
+        "evaluation": "The context states that Lanzarote is in the autonomous community of Canary Islands, which directly implies that Lanzarote is part of the Canary Islands.",
+        "type": "g"
+      },
+      {
+        "id": 7335061,
+        "title": "\"UD Lanzarote\"",
+        "text": "UD Lanzarote Unión Deportiva Lanzarote is a Spanish football team based in Arrecife, Lanzarote, in the autonomous community of Canary Islands. Founded in 1970 it plays in Tercera División – Group 12, holding home games at the \"\"Ciudad Deportiva de Lanzarote\"\" (sports city), a 6,000-seat stadium which is shared with CD Orientación Marítima. \"\"Unión Deportiva Lanzarote\"\" was formed in August 1970, in views to a representation outside of the island. In its beginnings the team played on \"\"picón\"\" (volcanic granules), eventually moving on to FIFA-approved artificial grass. In its first competitive season, 1970–71, the team won the \"\"Segunda Regional Insular\"\"",
+        "score": 85.07199096679688,
+        "evaluation": "The context states that Lanzarote is in the autonomous community of Canary Islands, which directly implies that Lanzarote is part of the Canary Islands.",
+        "type": "g"
+      },
+      {
+        "id": 7335066,
+        "title": "\"UD Lanzarote\"",
+        "text": "were crushed 0–6 at San Mamés, falling just one game short of the competition's quarterfinals. From 2004 to 2009, in the league, the team consecutively clinched mid-table positions. Note: this list includes players that have played at least 100 league games and/or have reached international status. UD Lanzarote Unión Deportiva Lanzarote is a Spanish football team based in Arrecife, Lanzarote, in the autonomous community of Canary Islands. Founded in 1970 it plays in Tercera División – Group 12, holding home games at the \"\"Ciudad Deportiva de Lanzarote\"\" (sports city), a 6,000-seat stadium which is shared with CD Orientación Marítima. \"\"Unión",
+        "score": 82.62059783935547,
+        "evaluation": "The context states that UD Lanzarote is based in Lanzarote, which is in the autonomous community of Canary Islands. This directly implies that Lanzarote is part of the Canary Islands, which is the correct answer to the question.",
+        "type": "g"
+      }
+    ],
+    "answer": "Canary Islands",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Spain"
+  },
+  {
+    "question": "what instrument does ringo starr play?",
+    "answers": [
+      "Drums"
+    ],
+    "ctxs": [
+      {
+        "id": 16671650,
+        "title": "\"Oh My My (Ringo Starr song)\"",
+        "text": "Oh My My (Ringo Starr song) \"\"Oh My My\"\" is a song by English musician Ringo Starr from his 1973 album \"\"Ringo\"\". It was also issued as the third single from the album, becoming a top-five hit in the United States and Canada. The recording was produced by Richard Perry and includes backing vocals by Merry Clayton and Martha Reeves. \"\"Oh My My\"\" was co-written by Starr (credited by his real name, \"\"Richard Starkey\"\") and Vini Poncia, a frequent collaborator of Starr's during the 1970s. Billy Preston plays keyboards on the track. Both Starr and Jim Keltner play drums, while",
+        "score": 89.61886596679688,
+        "evaluation": "The context directly states that both Starr and Jim Keltner play drums, which confirms that Ringo Starr plays drums.",
+        "type": "g"
+      },
+      {
+        "id": 16671650,
+        "title": "\"Oh My My (Ringo Starr song)\"",
+        "text": "Oh My My (Ringo Starr song) \"\"Oh My My\"\" is a song by English musician Ringo Starr from his 1973 album \"\"Ringo\"\". It was also issued as the third single from the album, becoming a top-five hit in the United States and Canada. The recording was produced by Richard Perry and includes backing vocals by Merry Clayton and Martha Reeves. \"\"Oh My My\"\" was co-written by Starr (credited by his real name, \"\"Richard Starkey\"\") and Vini Poncia, a frequent collaborator of Starr's during the 1970s. Billy Preston plays keyboards on the track. Both Starr and Jim Keltner play drums, while",
+        "score": 89.61886596679688,
+        "evaluation": "The context directly states that both Starr and Jim Keltner play drums, which confirms that Ringo Starr plays drums.",
+        "type": "g"
+      },
+      {
+        "id": 16671652,
+        "title": "\"Oh My My (Ringo Starr song)\"",
+        "text": "compilation album. Starr first performed \"\"Oh My My\"\" in 2008 with the tenth incarnation of his All-Starr Band. Oh My My (Ringo Starr song) \"\"Oh My My\"\" is a song by English musician Ringo Starr from his 1973 album \"\"Ringo\"\". It was also issued as the third single from the album, becoming a top-five hit in the United States and Canada. The recording was produced by Richard Perry and includes backing vocals by Merry Clayton and Martha Reeves. \"\"Oh My My\"\" was co-written by Starr (credited by his real name, \"\"Richard Starkey\"\") and Vini Poncia, a frequent collaborator of Starr's",
+        "score": 85.90081787109375,
+        "evaluation": "The context does not mention that Ringo Starr plays drums. It primarily discusses his song 'Oh My My' and provides details about the song's production and performance, but does not specify the instrument he plays.",
+        "type": "n"
+      }
+    ],
+    "answer": "drums",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Drums",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what time zone am i in missouri?",
+    "answers": [
+      "Central Time Zone",
+      "UTC−06:00"
+    ],
+    "ctxs": [
+      {
+        "id": 262024,
+        "title": "Missouri",
+        "text": "Missouri Missouri is a state in the Midwestern United States. With over six million residents, it is the 18th-most populous state of the Union. The largest urban areas are St. Louis, Kansas City, Springfield, and Columbia; the capital is Jefferson City, near the center of the state on the Missouri River. The state is the 21st-most extensive in area. In the South are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Mississippi River forms the eastern border of the state. Humans have inhabited the land now known as Missouri for at least 12,000 years. The Mississippian culture",
+        "score": 78.38334655761719,
+        "evaluation": "The context provided does not contain or directly imply information about the time zone of Missouri. It only gives general information about the state's location, population, urban areas, and history.",
+        "type": "n"
+      },
+      {
+        "id": 262024,
+        "title": "Missouri",
+        "text": "Missouri Missouri is a state in the Midwestern United States. With over six million residents, it is the 18th-most populous state of the Union. The largest urban areas are St. Louis, Kansas City, Springfield, and Columbia; the capital is Jefferson City, near the center of the state on the Missouri River. The state is the 21st-most extensive in area. In the South are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Mississippi River forms the eastern border of the state. Humans have inhabited the land now known as Missouri for at least 12,000 years. The Mississippian culture",
+        "score": 78.38334655761719,
+        "evaluation": "The context provided does not contain or directly imply information about the time zone of Missouri. It only gives general information about the state's location, population, urban areas, and history.",
+        "type": "n"
+      },
+      {
+        "id": 262113,
+        "title": "Missouri",
+        "text": "States. Professional major league teams Former professional major league teams Missouri Missouri is a state in the Midwestern United States. With over six million residents, it is the 18th-most populous state of the Union. The largest urban areas are St. Louis, Kansas City, Springfield, and Columbia; the capital is Jefferson City, near the center of the state on the Missouri River. The state is the 21st-most extensive in area. In the South are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Mississippi River forms the eastern border of the state. Humans have inhabited the land now known",
+        "score": 77.89314270019531,
+        "evaluation": "The context provided does not contain or directly imply information about the time zone in Missouri. It primarily describes the state's population, urban areas, and geography.",
+        "type": "n"
+      }
+    ],
+    "answer": "Central Time Zone",
+    "type": "kn",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Central Time Zone (CT)"
+  },
+  {
+    "question": "what instrument does fela kuti play?",
+    "answers": [
+      "guitar",
+      "trumpet",
+      "Saxophone",
+      "Drums",
+      "keyboard"
+    ],
+    "ctxs": [
+      {
+        "id": 2101921,
+        "title": "\"Fela Kuti\"",
+        "text": "was a feminist activist in the anti-colonial movement; his father, Reverend Israel Oludotun Ransome-Kuti, an Anglican minister and school principal, was the first president of the Nigeria Union of Teachers. His brothers, Beko Ransome-Kuti and Olikoye Ransome-Kuti, both medical doctors, are well known in Nigeria. Fela is a first cousin to the Nigerian writer and Nobel laureate Wole Soyinka, the first African to win the Nobel Prize for Literature. Fela attended Abeokuta Grammar School. Later he was sent to London in 1958 to study medicine but decided to study music instead at the Trinity College of Music, the trumpet being",
+        "score": 90.69366455078125,
+        "evaluation": "The context does not mention that Fela Kuti plays the guitar. It only mentions that he studied music at Trinity College of Music and that the trumpet was involved, but it does not specify the guitar as an instrument he plays.",
+        "type": "n"
+      },
+      {
+        "id": 13782593,
+        "title": "Fela!",
+        "text": "him addressing the audience from a concert at his club, the Afrika Shrine in Nigeria's largest city, Lagos. Kuti indicates that the Afrika Shrine had become a hugely popular venue, and a gathering place for youth opposed to Nigeria's military dictatorship. As one critic describes much of the first half of the show: Kuti reveals how torn he is between his respect for the example set by his mother, Funmilayo, a teacher and Nigerian civil rights activist, and his quest for fame and sometimes hedonism. He gradually becomes more involved in open opposition to Nigeria's military regime, and his lyrics",
+        "score": 79.63890838623047,
+        "evaluation": "The context does not mention any instrument that Fela Kuti plays, let alone the guitar. The text focuses on Kuti's interactions with the audience, the Afrika Shrine, and his political and personal struggles.",
+        "type": "n"
+      },
+      {
+        "id": 16621798,
+        "title": "\"Jahlil Okafor\"",
+        "text": "is and played power forward for Westark Community College, West Texas A&M University and Carl Albert State College. His parents had basketball scholarships at Carl Albert State College at the same time. Chuck had been an All-City High School basketball player for Bowen High School. His mother also played college basketball. Okafor plays chess and the saxophone as well as the tuba. In junior high, he participated in the stage crew for a musical. He is a distant cousin of fellow NBA player Emeka Okafor. He is of Nigerian descent through his paternal grandfather who moved to the U.S. from",
+        "score": 79.09321594238281,
+        "evaluation": "The context provided does not contain any information about Fela Kuti or the instrument he plays. The text is about a person named Chuck Okafor and his background in basketball and music, but it does not mention Fela Kuti or the guitar.",
+        "type": "n"
+      }
+    ],
+    "answer": "saxophone",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Trumpet",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the state motto of massachusetts?",
+    "answers": [
+      "Ense petit placidam sub libertate quietem"
+    ],
+    "ctxs": [
+      {
+        "id": 6015268,
+        "title": "\"Seal of Massachusetts\"",
+        "text": "surrounds the shield, bearing the state motto \"\"Ense petit placidam sub libertate quietem\"\" This comes from the Book of Mottoes in the Royal Danish Library in Copenhagen, Denmark; written about 1659 by Algernon Sydney, English soldier and politician. It was adopted in 1775 by the Provincial Congress and the literal translation is, \"\"With a sword, she seeks quiet peace under liberty.\"\" Although the looser English translation more commonly used is, \"\"By the sword we seek peace, but peace only under liberty.\"\" Above the shield is the state military crest: a bent arm holding a broadsword aloft. The sword has its",
+        "score": 89.86573028564453,
+        "evaluation": "The context directly states the state motto of Massachusetts as 'Ense petit placidam sub libertate quietem', which matches the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 6015268,
+        "title": "\"Seal of Massachusetts\"",
+        "text": "surrounds the shield, bearing the state motto \"\"Ense petit placidam sub libertate quietem\"\" This comes from the Book of Mottoes in the Royal Danish Library in Copenhagen, Denmark; written about 1659 by Algernon Sydney, English soldier and politician. It was adopted in 1775 by the Provincial Congress and the literal translation is, \"\"With a sword, she seeks quiet peace under liberty.\"\" Although the looser English translation more commonly used is, \"\"By the sword we seek peace, but peace only under liberty.\"\" Above the shield is the state military crest: a bent arm holding a broadsword aloft. The sword has its",
+        "score": 89.86573028564453,
+        "evaluation": "The context directly states the state motto of Massachusetts as 'Ense petit placidam sub libertate quietem', which matches the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 2725137,
+        "title": "\"Flag of Massachusetts\"",
+        "text": "than live under tyranny. A white star with five points appears next to the figure's head, signifying Massachusetts' admission as the sixth U.S. state. A blue ribbon surrounds the shield, bearing the state motto \"\"Ense Petit Placidam, Sub Libertate Quietem\"\" (\"\"By the Sword We Seek Peace, But Peace Only Under Liberty\"\"). Above the shield is the state military crest: the bent arm holding a broadsword aloft. The sword has its blade up, to remind that it was through the American Revolution that liberty was won. The state flag was officially adopted in 1901, but had been used unofficially since the",
+        "score": 88.61552429199219,
+        "evaluation": "The context directly states the state motto of Massachusetts as 'Ense Petit Placidam, Sub Libertate Quietem' which is the same as the correct answer provided, albeit with a slight difference in punctuation and spacing.",
+        "type": "g"
+      }
+    ],
+    "answer": "Ense petit placidam sub libertate quietem",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Ense Petit Placidam, Sub Libertate Quietem",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what ship did sir francis drake travel on?",
+    "answers": [
+      "Golden Hind"
+    ],
+    "ctxs": [
+      {
+        "id": 7220790,
+        "title": "\"Sir Francis Drake (TV series)\"",
+        "text": "Sir Francis Drake (TV series) Sir Francis Drake (aka The Adventures of Sir Francis Drake) is a 1961-1962 British adventure television series starring Terence Morgan as Sir Francis Drake, commander of the sailing ship the \"\"Golden Hind\"\". As well as battles at sea and sword fights, the series also deals with intrigue at Queen Elizabeth's court. The series was a joint ABC/ATV production, made at Elstree Studios and on historical sites in England. A replica of the \"\"Golden Hind\"\" was constructed at a cost of £25,000 and was used for filming in and around the bays of Torbay and Dartmouth.",
+        "score": 86.37962341308594,
+        "evaluation": "The context directly mentions that Sir Francis Drake commanded the sailing ship 'Golden Hind', which is the correct answer to the question.",
+        "type": "g"
+      },
+      {
+        "id": 7220790,
+        "title": "\"Sir Francis Drake (TV series)\"",
+        "text": "Sir Francis Drake (TV series) Sir Francis Drake (aka The Adventures of Sir Francis Drake) is a 1961-1962 British adventure television series starring Terence Morgan as Sir Francis Drake, commander of the sailing ship the \"\"Golden Hind\"\". As well as battles at sea and sword fights, the series also deals with intrigue at Queen Elizabeth's court. The series was a joint ABC/ATV production, made at Elstree Studios and on historical sites in England. A replica of the \"\"Golden Hind\"\" was constructed at a cost of £25,000 and was used for filming in and around the bays of Torbay and Dartmouth.",
+        "score": 86.37962341308594,
+        "evaluation": "The context directly mentions that Sir Francis Drake commanded the sailing ship 'Golden Hind', which is the correct answer to the question.",
+        "type": "g"
+      },
+      {
+        "id": 19774333,
+        "title": "\"Kimpton Sir Francis Drake Hotel\"",
+        "text": "Kimpton Sir Francis Drake Hotel The Kimpton Sir Francis Drake Hotel is a 416-room boutique hotel located in San Francisco, California, at the corner of Sutter and Powell Streets adjacent to the city’s central urban entertainment and shopping district, Union Square. The property was named after the English explorer who, in 1579, narrowly missed discovering San Francisco Bay and instead sailed the \"\"Golden Hind\"\" into Drakes Bay 28 miles north. Built in 1928 by Midwestern hotel developers Leon W. Huckins and John A. Newcomb for the then princely sum of $5 million, the hotel was run by several major hotel",
+        "score": 84.607177734375,
+        "evaluation": "The context mentions that Sir Francis Drake sailed the 'Golden Hind' into Drakes Bay, which directly implies that the Golden Hind was the ship he traveled on.",
+        "type": "g"
+      }
+    ],
+    "answer": "Golden Hind",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Golden Hind",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what does obama have a degree in?",
+    "answers": [
+      "Political Science"
+    ],
+    "ctxs": [
+      {
+        "id": 2826752,
+        "title": "\"Barack Obama\"",
+        "text": "College. In February 1981, Obama made his first public speech, calling for Occidental to participate in the disinvestment from South Africa in response to that nation's policy of apartheid. In mid-1981, Obama traveled to Indonesia to visit his mother and half-sister Maya, and visited the families of college friends in Pakistan and India for three weeks. Later in 1981, he transferred as a junior to Columbia University in New York City, where he majored in political science with a specialty in international relations and in English literature and lived off-campus on West 109th Street. He graduated with a BA degree",
+        "score": 79.56957244873047,
+        "evaluation": "The context states that Obama majored in political science with a specialty in international relations at Columbia University, which directly implies that he has a degree in Political Science.",
+        "type": "g"
+      },
+      {
+        "id": 2826752,
+        "title": "\"Barack Obama\"",
+        "text": "College. In February 1981, Obama made his first public speech, calling for Occidental to participate in the disinvestment from South Africa in response to that nation's policy of apartheid. In mid-1981, Obama traveled to Indonesia to visit his mother and half-sister Maya, and visited the families of college friends in Pakistan and India for three weeks. Later in 1981, he transferred as a junior to Columbia University in New York City, where he majored in political science with a specialty in international relations and in English literature and lived off-campus on West 109th Street. He graduated with a BA degree",
+        "score": 79.56957244873047,
+        "evaluation": "The context states that Obama majored in political science with a specialty in international relations at Columbia University, which directly implies that he has a degree in Political Science.",
+        "type": "g"
+      },
+      {
+        "id": 11719442,
+        "title": "\"Early life and career of Barack Obama\"",
+        "text": "reunite him with his stepfather. In 1971, Obama returned to Honolulu to attend Punahou School, from which he graduated in 1979 As a young adult, Obama moved to the contiguous United States, where he was educated at Occidental College, Columbia University, and Harvard Law School. In Chicago, Obama worked at various times as a community organizer, lawyer, Lecturer and Senior Lecturer of constitutional law at the University of Chicago Law School in the city's South Side, and later published his memoir \"\"Dreams from My Father\"\" before beginning his political career in 1997 as a member of the Illinois Senate. Barack",
+        "score": 78.32504272460938,
+        "evaluation": "The context mentions that Obama was educated at Occidental College, Columbia University, and Harvard Law School, but it does not specify his degree in Political Science.",
+        "type": "n"
+      }
+    ],
+    "answer": "Political Science",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Political Science",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what did eli whitney invented?",
+    "answers": [
+      "Interchangeable parts",
+      "Cotton gin",
+      "Milling"
+    ],
+    "ctxs": [
+      {
+        "id": 122631,
+        "title": "\"Eli Whitney\"",
+        "text": "devices, drawings of which are in his collected papers, were effective but were never manufactured for use of others due to his heirs' reluctance to trade in \"\"indelicate\"\" items. The Eli Whitney Students Program, Yale University's admissions program for non-traditional students, is named in honor of Whitney, who only began his studies there when he was 23, but went on to graduate Phi Beta Kappa in just three years. Eli Whitney Eli Whitney (December 8, 1765January 8, 1825) was an American inventor best known for inventing the cotton gin. This was one of the key inventions of the Industrial Revolution",
+        "score": 92.73933410644531,
+        "evaluation": "The context mentions that Eli Whitney is best known for inventing the cotton gin, but it does not mention interchangeable parts. Therefore, the context does not contain or directly imply the correct answer.",
+        "type": "n"
+      },
+      {
+        "id": 122611,
+        "title": "\"Eli Whitney\"",
+        "text": "Eli Whitney Eli Whitney (December 8, 1765January 8, 1825) was an American inventor best known for inventing the cotton gin. This was one of the key inventions of the Industrial Revolution and shaped the economy of the Antebellum South. Whitney's invention made upland short cotton into a profitable crop, which strengthened the economic foundation of slavery in the United States. Despite the social and economic impact of his invention, Whitney lost many profits in legal battles over patent infringement for the cotton gin. Thereafter, he turned his attention into securing contracts with the government in the manufacture of muskets for",
+        "score": 89.21046447753906,
+        "evaluation": "The context mentions that Eli Whitney is best known for inventing the cotton gin, but it does not mention interchangeable parts. Therefore, the context does not contain or directly imply the correct answer.",
+        "type": "n"
+      },
+      {
+        "id": 11400598,
+        "title": "\"Eli Whitney, North Carolina\"",
+        "text": "Eli Whitney, North Carolina Eli Whitney is an unincorporated community in southeastern Alamance County, North Carolina, USA. It is at the intersection of North Carolina Highway 87, and Greensboro-Chapel Hill Road. To the south is Mandale, North Carolina, and to the west is Snow Camp, North Carolina. The United States Postal Service considers Eli Whitney part of the Graham, North Carolina delivery area. Eli Whitney gained its name from the inventor of the cotton gin Eli Whitney. The reasoning for this was because there was once a cotton gin located in the community, but has been gone for many years",
+        "score": 83.20343017578125,
+        "evaluation": "The context mentions Eli Whitney as the inventor of the cotton gin, but it does not contain or imply that he invented interchangeable parts.",
+        "type": "n"
+      }
+    ],
+    "answer": "cotton gin",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Cotton Gin",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what type of monarchy did england have during the glorious revolution?",
+    "answers": [
+      "Constitutional monarchy"
+    ],
+    "ctxs": [
+      {
+        "id": 158430,
+        "title": "\"Glorious Revolution\"",
+        "text": "constitutional monarchy (a de facto republic, see Coronation Oath Act 1688) and Bill of Rights meant that the apparently invading monarchs, legitimate heirs to the throne, were prepared to govern with the English Parliament. It is difficult to classify the entire proceedings of 1687–89 but it can be seen that the events occurred in three phases: conspiracy, invasion by Dutch forces and \"\"Glorious Revolution\"\". It has been argued that the invasion aspect had been downplayed as a result of a combination of British pride and successful Dutch propaganda, trying to depict the course of events as a largely internal English",
+        "score": 89.82174682617188,
+        "evaluation": "The context directly mentions 'constitutional monarchy' in the context of the Glorious Revolution, indicating that this was the type of monarchy established during this period.",
+        "type": "g"
+      },
+      {
+        "id": 158336,
+        "title": "\"Glorious Revolution\"",
+        "text": "Glorious Revolution The Glorious Revolution, also called the Revolution of 1688, was the overthrow of King James II of England (James VII of Scotland) by a union of English Parliamentarians with the Dutch stadtholder William III, Prince of Orange, who was James's nephew and son-in-law. William's successful invasion of England with a Dutch fleet and army led to his ascension to the throne as William III of England jointly with his wife, Mary II, James's daughter, after the Declaration of Right, leading to the Bill of Rights 1689. King James's policies of religious tolerance after 1685 met with increasing opposition",
+        "score": 88.11321258544922,
+        "evaluation": "The context implies the establishment of a constitutional monarchy during the Glorious Revolution. This is indicated by the mention of the Declaration of Right and the Bill of Rights 1689, which are foundational documents that limited the powers of the monarchy and established the principles of constitutional monarchy in England.",
+        "type": "g"
+      },
+      {
+        "id": 158336,
+        "title": "\"Glorious Revolution\"",
+        "text": "Glorious Revolution The Glorious Revolution, also called the Revolution of 1688, was the overthrow of King James II of England (James VII of Scotland) by a union of English Parliamentarians with the Dutch stadtholder William III, Prince of Orange, who was James's nephew and son-in-law. William's successful invasion of England with a Dutch fleet and army led to his ascension to the throne as William III of England jointly with his wife, Mary II, James's daughter, after the Declaration of Right, leading to the Bill of Rights 1689. King James's policies of religious tolerance after 1685 met with increasing opposition",
+        "score": 88.11321258544922,
+        "evaluation": "The context implies the establishment of a constitutional monarchy during the Glorious Revolution. This is indicated by the mention of the Declaration of Right and the Bill of Rights 1689, which are foundational documents that limited the powers of the monarchy and established the principles of constitutional monarchy in England.",
+        "type": "g"
+      }
+    ],
+    "answer": "constitutional monarchy",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Constitutional Monarchy",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what style of art did van gogh produce?",
+    "answers": [
+      "Post-Impressionism"
+    ],
+    "ctxs": [
+      {
+        "id": 15481855,
+        "title": "\"Wheat Fields (Van Gogh series)\"",
+        "text": "Van Gogh uses complementary colors to bring intensity to the picture. Blue and orange flecks in the plowed field and violet and gold in the spring wheat behind the sower. Van Gogh used colors symbolically and for effect, when speaking of the colors in this work he said: \"\"I couldn't care less what the colours are in reality.\"\" Inspired by Jean-François Millet van Gogh made several paintings after \"\"The Sower\"\" by Millet. Van Gogh made seven other \"\"Sower\"\" paintings, one in 1883 and the other six after this work. During the last half of June he worked on a group",
+        "score": 88.643310546875,
+        "evaluation": "The context provides information about Van Gogh's use of color and his inspiration from Jean-François Millet, but it does not mention Post-Impressionism or any specific art style that Van Gogh produced.",
+        "type": "n"
+      },
+      {
+        "id": 447096,
+        "title": "\"Vincent van Gogh\"",
+        "text": "symbol for sunlight, life, and God. Van Gogh strove to be a painter of rural life and nature, and during his first summer in Arles he used his new palette to paint landscapes and traditional rural life. His belief that a power existed behind the natural led him to try to capture a sense of that power, or the essence of nature in his art, sometimes through the use of symbols. His renditions of the sower, at first copied from Jean-François Millet, reflect Van Gogh's religious beliefs: the sower as Christ sowing life beneath the hot sun. These were themes",
+        "score": 88.5376968383789,
+        "evaluation": "The context provides information about Van Gogh's themes and subjects, such as rural life and nature, and his use of symbols, but it does not mention Post-Impressionism or any specific art style that he produced.",
+        "type": "n"
+      },
+      {
+        "id": 447096,
+        "title": "\"Vincent van Gogh\"",
+        "text": "symbol for sunlight, life, and God. Van Gogh strove to be a painter of rural life and nature, and during his first summer in Arles he used his new palette to paint landscapes and traditional rural life. His belief that a power existed behind the natural led him to try to capture a sense of that power, or the essence of nature in his art, sometimes through the use of symbols. His renditions of the sower, at first copied from Jean-François Millet, reflect Van Gogh's religious beliefs: the sower as Christ sowing life beneath the hot sun. These were themes",
+        "score": 88.5376968383789,
+        "evaluation": "The context provides information about Van Gogh's themes and subjects, such as rural life and nature, and his use of symbols, but it does not mention Post-Impressionism or any specific art style that he produced.",
+        "type": "n"
+      }
+    ],
+    "answer": "Post-Impressionism",
+    "type": "kn",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Symbolism"
+  },
+  {
+    "question": "what did doc holliday die from?",
+    "answers": [
+      "Tuberculosis"
+    ],
+    "ctxs": [
+      {
+        "id": 2029566,
+        "title": "\"Doc Holliday\"",
+        "text": "Frank Stilwell lying in wait as Virgil boarded a train for California and killed him. The local sheriff issued a warrant for the arrest of five members of the federal posse, including Holliday. The federal posse killed three other Cowboys during late March and early April 1882, before they rode to the New Mexico Territory. Wyatt Earp learned of an extradition request for Holliday and arranged for Colorado Governor Frederick Walker Pitkin to deny Holliday's extradition. Holliday spent the few remaining years of his life in Colorado, and died of tuberculosis in his bed at the Glenwood Springs Hotel at",
+        "score": 80.34513854980469,
+        "evaluation": "The context directly states that Doc Holliday died of tuberculosis in his bed at the Glenwood Springs Hotel.",
+        "type": "g"
+      },
+      {
+        "id": 2029566,
+        "title": "\"Doc Holliday\"",
+        "text": "Frank Stilwell lying in wait as Virgil boarded a train for California and killed him. The local sheriff issued a warrant for the arrest of five members of the federal posse, including Holliday. The federal posse killed three other Cowboys during late March and early April 1882, before they rode to the New Mexico Territory. Wyatt Earp learned of an extradition request for Holliday and arranged for Colorado Governor Frederick Walker Pitkin to deny Holliday's extradition. Holliday spent the few remaining years of his life in Colorado, and died of tuberculosis in his bed at the Glenwood Springs Hotel at",
+        "score": 80.34513854980469,
+        "evaluation": "The context directly states that Doc Holliday died of tuberculosis in his bed at the Glenwood Springs Hotel.",
+        "type": "g"
+      },
+      {
+        "id": 2029563,
+        "title": "\"Doc Holliday\"",
+        "text": "Doc Holliday John Henry \"\"Doc\"\" Holliday (August 14, 1851 – November 8, 1887) was an American gambler, gunfighter, and dentist, and a good friend of Wyatt Earp. He is best known for his role in the events leading up to and following the Gunfight at the O.K. Corral. At age 21 Holliday earned a degree in dentistry from the Pennsylvania College of Dental Surgery. He set up practice in Atlanta, Georgia, but he was soon diagnosed with tuberculosis, the same disease that had claimed his mother when he was 15, having acquired it while tending to her needs while she",
+        "score": 80.19771575927734,
+        "evaluation": "The context states that Doc Holliday was diagnosed with tuberculosis, which is the same disease that claimed his mother's life. This directly implies that he died from tuberculosis, matching the correct answer.",
+        "type": "g"
+      }
+    ],
+    "answer": "tuberculosis",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Tuberculosis",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "who plays bella on twilight?",
+    "answers": [
+      "Kristen Stewart"
+    ],
+    "ctxs": [
+      {
+        "id": 12570888,
+        "title": "\"Twilight (soundtrack)\"",
+        "text": "star Kristen Stewart, who plays Bella Swan. The soundtrack won a 2009 American Music Award for Favorite Soundtrack. The CD booklet on the physical CD folds out into one of four \"\"Twilight\"\" posters. Hot Topic locations across the United States hosted exclusive \"\"Twilight\"\" soundtrack listening parties on October 24. Albums bought at Borders bookstores feature an acoustic version of Paramore's \"\"Decode\"\". Summit Entertainment provided a free remix of \"\"Bella's Lullaby\"\" through iTunes, with the purchase of a \"\"Twilight\"\" theatre ticket through online ticket services Fandango or MovieTickets.com. A digital version of the album, available for purchase on iTunes, includes a",
+        "score": 81.09463500976562,
+        "evaluation": "The context directly states that Kristen Stewart plays Bella Swan, which matches the correct answer provided.",
+        "type": "g"
+      },
+      {
+        "id": 4709978,
+        "title": "\"Mía Maestro\"",
+        "text": "was recorded in Iceland. NPR's Alt.Latino referred to her voice as one of Alt.Latino's favorites of 2014. She won an ACE Award for her performance in the stage production of \"\"Pandora's Box\"\". Mía Maestro Mía Maestro (born June 19, 1978) is an Argentine actress and singer-songwriter. She is known for her role as Nora Martinez in \"\"The Strain\"\", Nadia Santos in the television drama \"\"Alias\"\", as Christina Kahlo in \"\"Frida\"\", and as Carmen in \"\"The Twilight Saga\"\". Maestro was born in Buenos Aires, Argentina in 1978. She made her screen debut in Carlos Saura’s \"\"Tango\"\", which received Golden Globe and",
+        "score": 80.49649047851562,
+        "evaluation": "The context does not mention Kristen Stewart or her role as Bella in the Twilight series. It primarily discusses Mía Maestro and her roles, including a minor role in 'The Twilight Saga'.",
+        "type": "n"
+      },
+      {
+        "id": 9397012,
+        "title": "\"Bella Swan\"",
+        "text": "Bella Swan Isabella Marie \"\"Bella\"\" Swan (later Bella Cullen) is a character and the protagonist of the \"\"Twilight\"\" series, written by Stephenie Meyer. The \"\"Twilight\"\" series, consisting of the novels \"\"Twilight\"\", \"\"New Moon\"\", \"\"Eclipse\"\", and \"\"Breaking Dawn\"\", is primarily narrated from Bella's point of view, but partway through \"\"Breaking Dawn\"\" it is written from the point of view of Jacob Black. In the film series, Bella is portrayed by actress Kristen Stewart. In \"\"Twilight\"\", Bella moves to her father's home in Forks, Washington, meets the mysterious Cullen family, and falls in love with Edward Cullen. However, she soon discovers that",
+        "score": 78.32371520996094,
+        "evaluation": "The context explicitly states that 'In the film series, Bella is portrayed by actress Kristen Stewart.' This directly provides the correct answer to the question.",
+        "type": "g"
+      }
+    ],
+    "answer": "Kristen Stewart",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Kristen Stewart",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the money currency in italy?",
+    "answers": [
+      "Euro"
+    ],
+    "ctxs": [
+      {
+        "id": 3761909,
+        "title": "\"Italian lira\"",
+        "text": "by the euro. The lira was the official unit of currency in Italy until January 1, 1999, when it was replaced by the euro (euro coins and notes were not introduced until 2002). Old lira denominated currency ceased to be legal tender on February 28, 2002. The conversion rate is 1,936.27 lire to the euro. All lira banknotes in use immediately before the introduction of the euro, and all post-World War II coins, were exchanged by the Bank of Italy up to 6 December 2011. Originally, Italy's central bank pledged to redeem Italian coins and banknotes until 29 February 2012,",
+        "score": 86.94100952148438,
+        "evaluation": "The context directly states that the lira was replaced by the euro as the official unit of currency in Italy, which implies that the current currency in Italy is the Euro.",
+        "type": "g"
+      },
+      {
+        "id": 2480280,
+        "title": "\"Currency board\"",
+        "text": "Currency board A currency board is a monetary authority which is required to maintain a fixed exchange rate with a foreign currency. This policy objective requires the conventional objectives of a central bank to be subordinated to the exchange rate target. The main qualities of an orthodox currency board are: The currency board in question will no longer issue fiat money but instead will only issue one unit of local currency for each unit (or decided amount) of foreign currency it has in its vault (often a hard currency such as the U.S. dollar or the euro). The surplus on",
+        "score": 86.09567260742188,
+        "evaluation": "The context provided does not contain or directly imply that the Euro is the currency used in Italy. It discusses the general concept of a currency board and mentions the Euro as an example of a hard currency, but does not specify that the Euro is the currency of Italy.",
+        "type": "n"
+      },
+      {
+        "id": 14263344,
+        "title": "\"History of coins in Italy\"",
+        "text": "until 1 January 1999, when it was replaced by the euro (euro coins and notes were not introduced until 2002). Old lira denominated currency ceased to be legal tender on 28 February 2002. The conversion rate is 1,936.27 lire to the euro. All lira banknotes in use immediately before the introduction of the euro, as all post WW2 coins, are still exchangeable for euros in all branches of the Bank of Italy until 29 February 2012. The euro officially began circulating in Italy on 1 January 2002 (even though the creation of Italian lira coins was suspended in 1999). Italian",
+        "score": 85.53466796875,
+        "evaluation": "The context directly states that the euro officially began circulating in Italy on 1 January 2002, which implies that the Euro is the current currency in Italy.",
+        "type": "g"
+      }
+    ],
+    "answer": "Euro",
+    "type": "kg",
+    "em": 4.0,
+    "ctx_answer": "Euro",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "where was adolf hitler died?",
+    "answers": [
+      "Berlin"
+    ],
+    "ctxs": [
+      {
+        "id": 4905090,
+        "title": "\"Last will and testament of Adolf Hitler\"",
+        "text": "Last will and testament of Adolf Hitler Adolf Hitler signed his last will and testament in the Berlin \"\"Führerbunker\"\" on 29 April 1945, the day before he and his wife Eva committed suicide. The will was a short document stating that they had chosen death over capitulation, and that they were to be cremated; it named Martin Bormann as executor. The testament was in two parts. In the first, he denied charges of warmongering, expressed his thanks to Germany’s loyal citizens, and appealed to them to continue the struggle. In the second, he declared Himmler and Göring to be traitors,",
+        "score": 85.46945190429688,
+        "evaluation": "The context states that Adolf Hitler signed his last will and testament in the Berlin 'Führerbunker' on 29 April 1945, the day before he and his wife Eva committed suicide. This directly implies that Hitler died in Berlin.",
+        "type": "g"
+      },
+      {
+        "id": 17797893,
+        "title": "\"Conspiracy theories about Adolf Hitler's death\"",
+        "text": "Conspiracy theories about Adolf Hitler's death Conspiracy theories about Adolf Hitler's death contradict the fact that he committed suicide in the \"\"Führerbunker\"\" on 30 April 1945. Most of these theories hold that Hitler and his wife, Eva Braun, survived and escaped from Berlin, Germany, and Europe. While these theories have received some exposure in popular culture, such as in the book \"\"Grey Wolf: The Escape of Adolf Hitler\"\", these viewpoints are regarded by historians and scientific experts as disproven fringe theories. The theory that Hitler did not commit suicide, but instead escaped with his wife, was promoted by the Soviet",
+        "score": 84.08440399169922,
+        "evaluation": "The context states that Hitler committed suicide in the 'Führerbunker' on 30 April 1945, which is in Berlin, Germany. This directly implies that Hitler died in Berlin.",
+        "type": "g"
+      },
+      {
+        "id": 3844734,
+        "title": "\"Death of Adolf Hitler\"",
+        "text": "Death of Adolf Hitler Adolf Hitler was a German politician who was the leader of the Nazi Party, Chancellor of Germany from 1933 to 1945, and \"\"Führer\"\" (\"\"Leader\"\") of Nazi Germany from 1934 to 1945. He killed himself by gunshot on 30 April 1945 in his \"\"Führerbunker\"\" in Berlin. Eva Braun, his wife of one day, committed suicide with him by taking cyanide. In accordance with Hitler's prior written and verbal instructions, that afternoon their remains were carried up the stairs through the bunker's emergency exit, doused in petrol, and set alight in the Reich Chancellery garden outside the bunker.",
+        "score": 84.07945251464844,
+        "evaluation": "The context explicitly states that Hitler killed himself in his 'Führerbunker' in Berlin, which directly answers the question of where he died.",
+        "type": "g"
+      }
+    ],
+    "answer": "Berlin",
+    "type": "kg",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Führerbunker"
+  },
+  {
+    "question": "who plays giles in buffy the vampire slayer?",
+    "answers": [
+      "Anthony Stewart Head"
+    ],
+    "ctxs": [
+      {
+        "id": 1691710,
+        "title": "\"James Marsters\"",
+        "text": "from Liane Davidson, with whom he has one son, born May 1996. He is also raising his niece and regards her as his daughter. It was announced on May 21, 2010, that Marsters had proposed to girlfriend Patricia Rahman in Trier, Germany. On January 14, 2011, they married in a private civil ceremony in Los Angeles. As a solo artist: With Ghost of the Robot: James Marsters James Wesley Marsters (born August 20, 1962) is an American actor, musician and voice actor. He is best known for his role as the English vampire Spike in The WB series \"\"Buffy the",
+        "score": 86.68992614746094,
+        "evaluation": "The context does not contain or directly imply that Anthony Stewart Head plays Giles in Buffy the Vampire Slayer. The context primarily discusses James Marsters and his role as Spike in the show.",
+        "type": "n"
+      },
+      {
+        "id": 12784176,
+        "title": "\"Bargaining (Buffy the Vampire Slayer)\"",
+        "text": "Bargaining (Buffy the Vampire Slayer) \"\"Bargaining\"\" is the two-part season premiere of the sixth season of the television series \"\"Buffy the Vampire Slayer\"\", consisting of the first and second episodes. They are also the 101st and 102nd episodes of the show overall. The two constituent episodes were both aired on October 2, 2001 on UPN. The episodes were written by Marti Noxon and David Fury and directed by David Grossman. The Scooby Gang resurrect Buffy Summers (Sarah Michelle Gellar), after her death in the previous episode. Rupert Giles (Anthony Stewart Head) returns to England, and a group of biker demons",
+        "score": 86.58686828613281,
+        "evaluation": "The context directly mentions that Rupert Giles is played by Anthony Stewart Head, which matches the correct answer.",
+        "type": "g"
+      },
+      {
+        "id": 12784176,
+        "title": "\"Bargaining (Buffy the Vampire Slayer)\"",
+        "text": "Bargaining (Buffy the Vampire Slayer) \"\"Bargaining\"\" is the two-part season premiere of the sixth season of the television series \"\"Buffy the Vampire Slayer\"\", consisting of the first and second episodes. They are also the 101st and 102nd episodes of the show overall. The two constituent episodes were both aired on October 2, 2001 on UPN. The episodes were written by Marti Noxon and David Fury and directed by David Grossman. The Scooby Gang resurrect Buffy Summers (Sarah Michelle Gellar), after her death in the previous episode. Rupert Giles (Anthony Stewart Head) returns to England, and a group of biker demons",
+        "score": 86.58686828613281,
+        "evaluation": "The context directly mentions that Rupert Giles is played by Anthony Stewart Head, which matches the correct answer.",
+        "type": "g"
+      }
+    ],
+    "answer": "Anthony Stewart Head",
+    "type": "kg",
+    "em": 10.0,
+    "ctx_answer": "Anthony Stewart Head",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what is the biggest country in europe by population?",
+    "answers": [
+      "Russia"
+    ],
+    "ctxs": [
+      {
+        "id": 13715045,
+        "title": "\"Demographics of the European Union\"",
+        "text": "Demographics of the European Union The demographics of the European Union show a highly populated, culturally diverse union of 28 member states. As of 1 January 2018, the population of the EU is about 512.6 million people. The most populous member state is Germany, with an estimated 82.8 million people, and the least populous member state is Malta with 0.48 million. Birth rates in the EU are low with the average woman having 1.6 children. The highest birth-rates are found in Ireland with 16.876 births per thousand people per year and France with 13.013 births per thousand people per year.",
+        "score": 79.36032104492188,
+        "evaluation": "The context provided does not mention Russia or its population. It focuses on the demographics of the European Union and its member states, stating that Germany is the most populous member state. Therefore, the context does not contain or directly imply that Russia is the biggest country in Europe by population.",
+        "type": "n"
+      },
+      {
+        "id": 3910466,
+        "title": "\"Economy of Europe\"",
+        "text": "world). Europe's largest national economies with GDP (nominal) of more than $1 trillion are: Other large european economies are that of Turkey, Sweden, Poland, Belgium, Switzerland, Norway and Austria. European Union (about $20 trillion GDP) generates about 75-80 % of Europe's GDP. The EU as a whole is the wealthiest and largest economy in the world, topping the US by more than 2 trillion at the time of the financial crisis. In 2009 Europe remained the world's wealthiest region. Its $33 trillion in assets under management represented more than one-third of the world's wealth. Unlike North America ($29,3 trillion) it",
+        "score": 79.31791687011719,
+        "evaluation": "The context provided does not contain or directly imply the answer that Russia is the largest country in Europe by population. The context focuses on economic data and does not mention population sizes or specific countries in terms of their population.",
+        "type": "n"
+      },
+      {
+        "id": 3910466,
+        "title": "\"Economy of Europe\"",
+        "text": "world). Europe's largest national economies with GDP (nominal) of more than $1 trillion are: Other large european economies are that of Turkey, Sweden, Poland, Belgium, Switzerland, Norway and Austria. European Union (about $20 trillion GDP) generates about 75-80 % of Europe's GDP. The EU as a whole is the wealthiest and largest economy in the world, topping the US by more than 2 trillion at the time of the financial crisis. In 2009 Europe remained the world's wealthiest region. Its $33 trillion in assets under management represented more than one-third of the world's wealth. Unlike North America ($29,3 trillion) it",
+        "score": 79.31791687011719,
+        "evaluation": "The context provided does not contain or directly imply the answer that Russia is the largest country in Europe by population. The context focuses on economic data and does not mention population sizes or specific countries in terms of their population.",
+        "type": "n"
+      }
+    ],
+    "answer": "Russia",
+    "type": "kn",
+    "em": 10.0,
+    "ctx_answer": "Russia",
+    "ctx_wrong_answer": ""
+  },
+  {
+    "question": "what form of government do we have in the usa?",
+    "answers": [
+      "Presidential system",
+      "Federal republic",
+      "Representative democracy",
+      "Two-party system",
+      "Constitutional republic",
+      "Republic"
+    ],
+    "ctxs": [
+      {
+        "id": 5513982,
+        "title": "\"Provisional Government of the Republic of Poland\"",
+        "text": "the same day, Prime Minister Edward Osóbka-Morawski of the RTRP announced the following at a press conference: We need people who agree with our foreign policy and with our social reforms. Only such a government can do its work properly. We need the collaboration of men who accept the Yalta decisions, not only formally, but in fact. We are making every effort to contact such people. What we do not want are Fascists . . . On 28 June 1945, the Provisional Government of Republic of Poland (\"\"Rząd Tymczasowy Rzeczypospolitej Polskiej\"\") was transformed into the more coalition-like Provisional Government of",
+        "score": 80.8819351196289,
+        "evaluation": "The context provided does not contain or directly imply information about the form of government in the USA. It discusses the formation of a government in Poland and does not mention the USA or its governmental system.",
+        "type": "n"
+      },
+      {
+        "id": 156509,
+        "title": "Government",
+        "text": "in England, the American Revolution, and the French Revolution contributed to the growth of representative forms of government. The Soviet Union was the first large country to have a Communist government. Since the fall of the Berlin Wall, liberal democracy has become an even more prevalent form of government. In the nineteenth and twentieth century, there was a significant increase in the size and scale of government at the national level. This included the regulation of corporations and the development of the welfare state. In political science, it has long been a goal to create a typology or taxonomy of",
+        "score": 78.23661041259766,
+        "evaluation": "The context does not contain or directly imply that the USA has a presidential system. It discusses various forms of government and historical developments but does not specifically mention the form of government in the USA.",
+        "type": "n"
+      },
+      {
+        "id": 156513,
+        "title": "Government",
+        "text": "States has little in common with the way the word's definition is used elsewhere. As Ribuffo notes, \"\"what Americans now call conservatism much of the world calls liberalism or neoliberalism\"\". Since the 1950s conservatism in the United States has been chiefly associated with the Republican Party. However, during the era of segregation many Southern Democrats were conservatives, and they played a key role in the Conservative Coalition that controlled Congress from 1937 to 1963. Every country in the world is ruled by a system of governance that combines at least three or more political or economic attributes. Additionally, opinions vary",
+        "score": 77.86894226074219,
+        "evaluation": "The context provided does not contain or directly imply that the United States has a presidential system of government. The text discusses various aspects of political conservatism in the United States but does not mention the form of government.",
+        "type": "n"
+      }
+    ],
+    "answer": "Federal republic",
+    "type": "kn",
+    "em": 0.0,
+    "ctx_answer": "",
+    "ctx_wrong_answer": "Liberal Democracy"
+  }
+]
