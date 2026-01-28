@@ -481,7 +481,6 @@ class Trainer(DPOTrainer):
 
         # 6) DS weighting (needs both sources)
         if self.use_ds and (alpha4_rag is not None) and (alpha4_param is not None):
-            # DS는 float32로 (안정)
             alpha2_r = self._alpha4_to_alpha2(alpha4_rag)    # [B,2] float32
             alpha2_p = self._alpha4_to_alpha2(alpha4_param)  # [B,2] float32
 
