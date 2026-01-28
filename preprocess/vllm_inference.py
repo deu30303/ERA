@@ -19,7 +19,7 @@ def extract_answer(args, text):
     pattern = re.compile(r'Answer:\s*', re.IGNORECASE)
     parts = pattern.split(text)
     if len(parts) > 1:
-        text = parts[-1] # 가장 마지막에 나온 Answer 뒤의 텍스트 선택
+        text = parts[-1] 
 
 
     stop_phrases = [
@@ -135,10 +135,8 @@ def vllm_wo_retrieval(args, data):
 
 
 def vllm_w_retrieval(args, data):
-    # 1. 토크나이저 로드
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
     
-    # 2. Stop Token 자동 설정 (Qwen/Llama 호환)
     stop_token_ids = [tokenizer.eos_token_id]
     if hasattr(tokenizer, "convert_tokens_to_ids"):
         for stop_str in ["<|im_end|>", "<|endoftext|>", "<|eot_id|>"]:
@@ -150,12 +148,10 @@ def vllm_w_retrieval(args, data):
                 pass
     stop_token_ids = list(set(stop_token_ids))
 
-    # 3. 모델 로드
     llm = LLM(model=args.model_name_or_path, tensor_parallel_size=1, tokenizer_mode='auto',
               trust_remote_code=True, load_format='auto', gpu_memory_utilization=0.95, 
               max_num_batched_tokens=16384)
 
-    # 4. 샘플링 파라미터
     sampling_param = SamplingParams(
         n=args.infer_k,
         max_tokens=512,
@@ -167,12 +163,11 @@ def vllm_w_retrieval(args, data):
     )
     
 
-    # 5. 프롬프트 구성 요소 준비
+
     sys_instruction = 'You need to complete the question-and-answer pair following the format provided in the example. The answers should be short phrases or entities, not full sentences.'
-    examples_str = "" # 문자열로 관리
+    examples_str = ""
     
     if 'Llama' in args.model_name_or_path or 'Qwen' in args.model_name_or_path or 'Mistral' in args.model_name_or_path:
-        # Base 모델용 예시 (하나의 문자열로 합침)
         examples_str = (
             "Example 1:\nQuestion: What is the capital of France?\nAnswer: Paris.\n\n"
             "Example 2:\nQuestion: Who invented the telephone?\nAnswer: Alexander Graham Bell.\n\n"
@@ -181,7 +176,6 @@ def vllm_w_retrieval(args, data):
 
     sens = []
     for sample in data:
-        # Context 안전하게 가져오기
         if 'ctxs' in sample:
             ctxs_list = sample['ctxs']
         elif 'possible_golden_ctxs' in sample:
@@ -189,28 +183,21 @@ def vllm_w_retrieval(args, data):
         else:
             ctxs_list = []
 
-        # 문맥 텍스트 구성
         ctxs_text = ''
         for i in range(min(3, len(ctxs_list))):
             ctxs_text += f'\nContext{i+1}: {ctxs_list[i]["text"]}'
 
-        # =========================================================
-        # [핵심 수정] Base 모델용 Text Completion 프롬프트 조립
-        # =========================================================
-        # 구조: [지시문] -> [예시] -> [문맥 안내] -> [문맥들] -> [질문] -> [Answer:]
-        
-        # 1. 지시문과 예시 결합
+
         header = f"{sys_instruction}\n\n{examples_str}"
         
-        # 2. 문맥과 질문 결합 (Base 모델이 답을 시작할 수 있게 '\nAnswer:' 추가)
+
         body = f"The following contexts will help you complete the question-and-answer pair.{ctxs_text}\n\nQuestion: {sample['question']}\nAnswer:"
         
-        # 3. 최종 프롬프트
+
         prompt_str = header + body
         
         sens.append(prompt_str)
 
-    # 생성 수행
     outputs = llm.generate(sens, sampling_params=sampling_param)
     
     ret = []
