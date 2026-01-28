@@ -2,8 +2,8 @@ import torch
 import re
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
-import string  # [핵심 수정] 이 줄이 빠져서 에러가 났습니다.
-import re      # re.sub 사용을 위해 필요
+import string 
+import re     
 from collections import Counter # Counter 사용을 위해 필요
 
 
